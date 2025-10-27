@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\EfCoreIntroduction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9588E70-F4FF-40D6-9075-C5863820E065}|EfCoreIntroduction\\EfCoreIntroduction.csproj|c:\\users\\alex\\source\\repos\\entityframework\\efcoreintroduction\\efcoreintroduction\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9588E70-F4FF-40D6-9075-C5863820E065}|EfCoreIntroduction\\EfCoreIntroduction.csproj|solutionrelative:efcoreintroduction\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alex\\source\\repos\\EntityFramework\\EfCoreIntroduction\\EfCoreIntroduction\\Data\\Models\\SoftUniContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EfCoreIntroduction\\Data\\Models\\SoftUniContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9588E70-F4FF-40D6-9075-C5863820E065}|EfCoreIntroduction\\EfCoreIntroduction.csproj|c:\\users\\alex\\source\\repos\\entityframework\\efcoreintroduction\\efcoreintroduction\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9588E70-F4FF-40D6-9075-C5863820E065}|EfCoreIntroduction\\EfCoreIntroduction.csproj|solutionrelative:efcoreintroduction\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9588E70-F4FF-40D6-9075-C5863820E065}|EfCoreIntroduction\\EfCoreIntroduction.csproj|c:\\users\\alex\\source\\repos\\entityframework\\efcoreintroduction\\efcoreintroduction\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9588E70-F4FF-40D6-9075-C5863820E065}|EfCoreIntroduction\\EfCoreIntroduction.csproj|solutionrelative:efcoreintroduction\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9588E70-F4FF-40D6-9075-C5863820E065}|EfCoreIntroduction\\EfCoreIntroduction.csproj|c:\\users\\alex\\source\\repos\\entityframework\\efcoreintroduction\\efcoreintroduction\\models\\employeeproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9588E70-F4FF-40D6-9075-C5863820E065}|EfCoreIntroduction\\EfCoreIntroduction.csproj|solutionrelative:efcoreintroduction\\models\\employeeproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9588E70-F4FF-40D6-9075-C5863820E065}|EfCoreIntroduction\\EfCoreIntroduction.csproj|c:\\users\\alex\\source\\repos\\entityframework\\efcoreintroduction\\efcoreintroduction\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9588E70-F4FF-40D6-9075-C5863820E065}|EfCoreIntroduction\\EfCoreIntroduction.csproj|solutionrelative:efcoreintroduction\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9588E70-F4FF-40D6-9075-C5863820E065}|EfCoreIntroduction\\EfCoreIntroduction.csproj|c:\\users\\alex\\source\\repos\\entityframework\\efcoreintroduction\\efcoreintroduction\\data\\softunicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9588E70-F4FF-40D6-9075-C5863820E065}|EfCoreIntroduction\\EfCoreIntroduction.csproj|solutionrelative:efcoreintroduction\\data\\softunicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9588E70-F4FF-40D6-9075-C5863820E065}|EfCoreIntroduction\\EfCoreIntroduction.csproj|c:\\users\\alex\\source\\repos\\entityframework\\efcoreintroduction\\efcoreintroduction\\models\\town.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9588E70-F4FF-40D6-9075-C5863820E065}|EfCoreIntroduction\\EfCoreIntroduction.csproj|solutionrelative:efcoreintroduction\\models\\town.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9588E70-F4FF-40D6-9075-C5863820E065}|EfCoreIntroduction\\EfCoreIntroduction.csproj|c:\\users\\alex\\source\\repos\\entityframework\\efcoreintroduction\\efcoreintroduction\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9588E70-F4FF-40D6-9075-C5863820E065}|EfCoreIntroduction\\EfCoreIntroduction.csproj|solutionrelative:efcoreintroduction\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeProject.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\EfCoreIntroduction\\EfCoreIntroduction\\Models\\EmployeeProject.cs",
+              "RelativeDocumentMoniker": "EfCoreIntroduction\\Models\\EmployeeProject.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\EfCoreIntroduction\\EfCoreIntroduction\\Models\\EmployeeProject.cs",
+              "RelativeToolTip": "EfCoreIntroduction\\Models\\EmployeeProject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T13:17:09.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\EfCoreIntroduction\\EfCoreIntroduction\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EfCoreIntroduction\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\EfCoreIntroduction\\EfCoreIntroduction\\Models\\Employee.cs",
+              "RelativeToolTip": "EfCoreIntroduction\\Models\\Employee.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T13:07:58.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\EfCoreIntroduction\\EfCoreIntroduction\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "EfCoreIntroduction\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\EfCoreIntroduction\\EfCoreIntroduction\\Models\\Department.cs",
+              "RelativeToolTip": "EfCoreIntroduction\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T13:07:55.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\EfCoreIntroduction\\EfCoreIntroduction\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "EfCoreIntroduction\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\EfCoreIntroduction\\EfCoreIntroduction\\Models\\Project.cs",
+              "RelativeToolTip": "EfCoreIntroduction\\Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T13:07:18.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Town.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\EfCoreIntroduction\\EfCoreIntroduction\\Models\\Town.cs",
+              "RelativeDocumentMoniker": "EfCoreIntroduction\\Models\\Town.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\EfCoreIntroduction\\EfCoreIntroduction\\Models\\Town.cs",
+              "RelativeToolTip": "EfCoreIntroduction\\Models\\Town.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T13:07:15.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\EfCoreIntroduction\\EfCoreIntroduction\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "EfCoreIntroduction\\Models\\Address.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\EfCoreIntroduction\\EfCoreIntroduction\\Models\\Address.cs",
+              "RelativeToolTip": "EfCoreIntroduction\\Models\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T12:54:25.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SoftUniContext.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\EfCoreIntroduction\\EfCoreIntroduction\\Data\\SoftUniContext.cs",
+              "RelativeDocumentMoniker": "EfCoreIntroduction\\Data\\SoftUniContext.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\EfCoreIntroduction\\EfCoreIntroduction\\Data\\SoftUniContext.cs",
+              "RelativeToolTip": "EfCoreIntroduction\\Data\\SoftUniContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T12:54:12.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\EfCoreIntroduction\\EfCoreIntroduction\\StartUp.cs",
+              "RelativeDocumentMoniker": "EfCoreIntroduction\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\EfCoreIntroduction\\EfCoreIntroduction\\StartUp.cs",
+              "RelativeToolTip": "EfCoreIntroduction\\StartUp.cs",
+              "ViewState": "AgIAAPgAAAAAAAAAAAA3wIUBAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T12:31:18.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SoftUniContext.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\EfCoreIntroduction\\EfCoreIntroduction\\Data\\Models\\SoftUniContext.cs",
+              "RelativeDocumentMoniker": "EfCoreIntroduction\\Data\\Models\\SoftUniContext.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\EfCoreIntroduction\\EfCoreIntroduction\\Data\\Models\\SoftUniContext.cs",
+              "RelativeToolTip": "EfCoreIntroduction\\Data\\Models\\SoftUniContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T12:50:55.126Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

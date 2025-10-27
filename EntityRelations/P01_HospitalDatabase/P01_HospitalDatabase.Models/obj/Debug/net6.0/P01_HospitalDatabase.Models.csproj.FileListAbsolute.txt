@@ -1,0 +1,17 @@
+C:\Users\Alex\source\repos\EntityFramework\EntityRelations\P01_HospitalDatabase\P01_HospitalDatabase.Models\bin\Debug\net6.0\P01_HospitalDatabase.Models.deps.json
+C:\Users\Alex\source\repos\EntityFramework\EntityRelations\P01_HospitalDatabase\P01_HospitalDatabase.Models\bin\Debug\net6.0\P01_HospitalDatabase.Models.runtimeconfig.json
+C:\Users\Alex\source\repos\EntityFramework\EntityRelations\P01_HospitalDatabase\P01_HospitalDatabase.Models\bin\Debug\net6.0\P01_HospitalDatabase.Models.dll
+C:\Users\Alex\source\repos\EntityFramework\EntityRelations\P01_HospitalDatabase\P01_HospitalDatabase.Models\bin\Debug\net6.0\P01_HospitalDatabase.Models.pdb
+C:\Users\Alex\source\repos\EntityFramework\EntityRelations\P01_HospitalDatabase\P01_HospitalDatabase.Models\bin\Debug\net6.0\P01_HospitalDatabase.Common.dll
+C:\Users\Alex\source\repos\EntityFramework\EntityRelations\P01_HospitalDatabase\P01_HospitalDatabase.Models\bin\Debug\net6.0\P01_HospitalDatabase.Common.pdb
+C:\Users\Alex\source\repos\EntityFramework\EntityRelations\P01_HospitalDatabase\P01_HospitalDatabase.Models\obj\Debug\net6.0\P01_HospitalDatabase.Models.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\EntityFramework\EntityRelations\P01_HospitalDatabase\P01_HospitalDatabase.Models\obj\Debug\net6.0\P01_HospitalDatabase.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\EntityFramework\EntityRelations\P01_HospitalDatabase\P01_HospitalDatabase.Models\obj\Debug\net6.0\P01_HospitalDatabase.Models.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\EntityFramework\EntityRelations\P01_HospitalDatabase\P01_HospitalDatabase.Models\obj\Debug\net6.0\P01_HospitalDatabase.Models.AssemblyInfo.cs
+C:\Users\Alex\source\repos\EntityFramework\EntityRelations\P01_HospitalDatabase\P01_HospitalDatabase.Models\obj\Debug\net6.0\P01_HospitalDatabase.Models.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\EntityFramework\EntityRelations\P01_HospitalDatabase\P01_HospitalDatabase.Models\obj\Debug\net6.0\P01_Hosp.442C1ABA.Up2Date
+C:\Users\Alex\source\repos\EntityFramework\EntityRelations\P01_HospitalDatabase\P01_HospitalDatabase.Models\obj\Debug\net6.0\P01_HospitalDatabase.Models.dll
+C:\Users\Alex\source\repos\EntityFramework\EntityRelations\P01_HospitalDatabase\P01_HospitalDatabase.Models\obj\Debug\net6.0\refint\P01_HospitalDatabase.Models.dll
+C:\Users\Alex\source\repos\EntityFramework\EntityRelations\P01_HospitalDatabase\P01_HospitalDatabase.Models\obj\Debug\net6.0\P01_HospitalDatabase.Models.pdb
+C:\Users\Alex\source\repos\EntityFramework\EntityRelations\P01_HospitalDatabase\P01_HospitalDatabase.Models\obj\Debug\net6.0\P01_HospitalDatabase.Models.genruntimeconfig.cache
+C:\Users\Alex\source\repos\EntityFramework\EntityRelations\P01_HospitalDatabase\P01_HospitalDatabase.Models\obj\Debug\net6.0\ref\P01_HospitalDatabase.Models.dll

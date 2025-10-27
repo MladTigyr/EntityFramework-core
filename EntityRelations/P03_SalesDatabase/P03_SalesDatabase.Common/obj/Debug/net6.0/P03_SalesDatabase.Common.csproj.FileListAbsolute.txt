@@ -1,0 +1,14 @@
+C:\Users\Alex\source\repos\EntityFramework\EntityRelations\P03_SalesDatabase\P03_SalesDatabase.Common\bin\Debug\net6.0\P03_SalesDatabase.Common.deps.json
+C:\Users\Alex\source\repos\EntityFramework\EntityRelations\P03_SalesDatabase\P03_SalesDatabase.Common\bin\Debug\net6.0\P03_SalesDatabase.Common.runtimeconfig.json
+C:\Users\Alex\source\repos\EntityFramework\EntityRelations\P03_SalesDatabase\P03_SalesDatabase.Common\bin\Debug\net6.0\P03_SalesDatabase.Common.dll
+C:\Users\Alex\source\repos\EntityFramework\EntityRelations\P03_SalesDatabase\P03_SalesDatabase.Common\bin\Debug\net6.0\P03_SalesDatabase.Common.pdb
+C:\Users\Alex\source\repos\EntityFramework\EntityRelations\P03_SalesDatabase\P03_SalesDatabase.Common\obj\Debug\net6.0\P03_SalesDatabase.Common.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\EntityFramework\EntityRelations\P03_SalesDatabase\P03_SalesDatabase.Common\obj\Debug\net6.0\P03_SalesDatabase.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\EntityFramework\EntityRelations\P03_SalesDatabase\P03_SalesDatabase.Common\obj\Debug\net6.0\P03_SalesDatabase.Common.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\EntityFramework\EntityRelations\P03_SalesDatabase\P03_SalesDatabase.Common\obj\Debug\net6.0\P03_SalesDatabase.Common.AssemblyInfo.cs
+C:\Users\Alex\source\repos\EntityFramework\EntityRelations\P03_SalesDatabase\P03_SalesDatabase.Common\obj\Debug\net6.0\P03_SalesDatabase.Common.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\EntityFramework\EntityRelations\P03_SalesDatabase\P03_SalesDatabase.Common\obj\Debug\net6.0\P03_SalesDatabase.Common.dll
+C:\Users\Alex\source\repos\EntityFramework\EntityRelations\P03_SalesDatabase\P03_SalesDatabase.Common\obj\Debug\net6.0\refint\P03_SalesDatabase.Common.dll
+C:\Users\Alex\source\repos\EntityFramework\EntityRelations\P03_SalesDatabase\P03_SalesDatabase.Common\obj\Debug\net6.0\P03_SalesDatabase.Common.pdb
+C:\Users\Alex\source\repos\EntityFramework\EntityRelations\P03_SalesDatabase\P03_SalesDatabase.Common\obj\Debug\net6.0\P03_SalesDatabase.Common.genruntimeconfig.cache
+C:\Users\Alex\source\repos\EntityFramework\EntityRelations\P03_SalesDatabase\P03_SalesDatabase.Common\obj\Debug\net6.0\ref\P03_SalesDatabase.Common.dll

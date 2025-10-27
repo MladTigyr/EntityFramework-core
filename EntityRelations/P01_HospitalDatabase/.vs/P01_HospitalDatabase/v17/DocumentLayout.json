@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\EntityRelations\\P01_HospitalDatabase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{162CE174-E6C3-45A0-91EA-69B7701894A4}|P01_HospitalDatabase.Data\\P01_HospitalDatabase.Data.csproj|c:\\users\\alex\\source\\repos\\entityframework\\entityrelations\\p01_hospitaldatabase\\p01_hospitaldatabase.data\\hospitalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162CE174-E6C3-45A0-91EA-69B7701894A4}|P01_HospitalDatabase.Data\\P01_HospitalDatabase.Data.csproj|solutionrelative:p01_hospitaldatabase.data\\hospitalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162CE174-E6C3-45A0-91EA-69B7701894A4}|P01_HospitalDatabase.Data\\P01_HospitalDatabase.Data.csproj|c:\\users\\alex\\source\\repos\\entityframework\\entityrelations\\p01_hospitaldatabase\\p01_hospitaldatabase.data\\models\\visitation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162CE174-E6C3-45A0-91EA-69B7701894A4}|P01_HospitalDatabase.Data\\P01_HospitalDatabase.Data.csproj|solutionrelative:p01_hospitaldatabase.data\\models\\visitation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162CE174-E6C3-45A0-91EA-69B7701894A4}|P01_HospitalDatabase.Data\\P01_HospitalDatabase.Data.csproj|c:\\users\\alex\\source\\repos\\entityframework\\entityrelations\\p01_hospitaldatabase\\p01_hospitaldatabase.data\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162CE174-E6C3-45A0-91EA-69B7701894A4}|P01_HospitalDatabase.Data\\P01_HospitalDatabase.Data.csproj|solutionrelative:p01_hospitaldatabase.data\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162CE174-E6C3-45A0-91EA-69B7701894A4}|P01_HospitalDatabase.Data\\P01_HospitalDatabase.Data.csproj|c:\\users\\alex\\source\\repos\\entityframework\\entityrelations\\p01_hospitaldatabase\\p01_hospitaldatabase.data\\models\\diagnose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162CE174-E6C3-45A0-91EA-69B7701894A4}|P01_HospitalDatabase.Data\\P01_HospitalDatabase.Data.csproj|solutionrelative:p01_hospitaldatabase.data\\models\\diagnose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162CE174-E6C3-45A0-91EA-69B7701894A4}|P01_HospitalDatabase.Data\\P01_HospitalDatabase.Data.csproj|c:\\users\\alex\\source\\repos\\entityframework\\entityrelations\\p01_hospitaldatabase\\p01_hospitaldatabase.data\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162CE174-E6C3-45A0-91EA-69B7701894A4}|P01_HospitalDatabase.Data\\P01_HospitalDatabase.Data.csproj|solutionrelative:p01_hospitaldatabase.data\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2347ADDF-DB11-43BC-B6DB-B27B12174A4D}|P01_HospitalDatabase.Common\\P01_HospitalDatabase.Common.csproj|c:\\users\\alex\\source\\repos\\entityframework\\entityrelations\\p01_hospitaldatabase\\p01_hospitaldatabase.common\\entityvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2347ADDF-DB11-43BC-B6DB-B27B12174A4D}|P01_HospitalDatabase.Common\\P01_HospitalDatabase.Common.csproj|solutionrelative:p01_hospitaldatabase.common\\entityvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A050121-303D-4D8F-95EE-CBCAB28BB7B9}|P01_HospitalDatabase\\P01_HospitalDatabase.csproj|c:\\users\\alex\\source\\repos\\entityframework\\entityrelations\\p01_hospitaldatabase\\p01_hospitaldatabase\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A050121-303D-4D8F-95EE-CBCAB28BB7B9}|P01_HospitalDatabase\\P01_HospitalDatabase.csproj|solutionrelative:p01_hospitaldatabase\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162CE174-E6C3-45A0-91EA-69B7701894A4}|P01_HospitalDatabase.Data\\P01_HospitalDatabase.Data.csproj|c:\\users\\alex\\source\\repos\\entityframework\\entityrelations\\p01_hospitaldatabase\\p01_hospitaldatabase.data\\models\\medicament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162CE174-E6C3-45A0-91EA-69B7701894A4}|P01_HospitalDatabase.Data\\P01_HospitalDatabase.Data.csproj|solutionrelative:p01_hospitaldatabase.data\\models\\medicament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162CE174-E6C3-45A0-91EA-69B7701894A4}|P01_HospitalDatabase.Data\\P01_HospitalDatabase.Data.csproj|c:\\users\\alex\\source\\repos\\entityframework\\entityrelations\\p01_hospitaldatabase\\p01_hospitaldatabase.data\\models\\patientmedicament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162CE174-E6C3-45A0-91EA-69B7701894A4}|P01_HospitalDatabase.Data\\P01_HospitalDatabase.Data.csproj|solutionrelative:p01_hospitaldatabase.data\\models\\patientmedicament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98657DBE-43EA-4856-BC25-CE2B79896D24}|P01_HospitalDatabase.Models\\P01_HospitalDatabase.Models.csproj|c:\\users\\alex\\source\\repos\\entityframework\\entityrelations\\p01_hospitaldatabase\\p01_hospitaldatabase.models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98657DBE-43EA-4856-BC25-CE2B79896D24}|P01_HospitalDatabase.Models\\P01_HospitalDatabase.Models.csproj|solutionrelative:p01_hospitaldatabase.models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98657DBE-43EA-4856-BC25-CE2B79896D24}|P01_HospitalDatabase.Models\\P01_HospitalDatabase.Models.csproj|c:\\users\\alex\\source\\repos\\entityframework\\entityrelations\\p01_hospitaldatabase\\p01_hospitaldatabase.models\\visitation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98657DBE-43EA-4856-BC25-CE2B79896D24}|P01_HospitalDatabase.Models\\P01_HospitalDatabase.Models.csproj|solutionrelative:p01_hospitaldatabase.models\\visitation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98657DBE-43EA-4856-BC25-CE2B79896D24}|P01_HospitalDatabase.Models\\P01_HospitalDatabase.Models.csproj|c:\\users\\alex\\source\\repos\\entityframework\\entityrelations\\p01_hospitaldatabase\\p01_hospitaldatabase.models\\diagnose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98657DBE-43EA-4856-BC25-CE2B79896D24}|P01_HospitalDatabase.Models\\P01_HospitalDatabase.Models.csproj|solutionrelative:p01_hospitaldatabase.models\\diagnose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98657DBE-43EA-4856-BC25-CE2B79896D24}|P01_HospitalDatabase.Models\\P01_HospitalDatabase.Models.csproj|c:\\users\\alex\\source\\repos\\entityframework\\entityrelations\\p01_hospitaldatabase\\p01_hospitaldatabase.models\\medicament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98657DBE-43EA-4856-BC25-CE2B79896D24}|P01_HospitalDatabase.Models\\P01_HospitalDatabase.Models.csproj|solutionrelative:p01_hospitaldatabase.models\\medicament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98657DBE-43EA-4856-BC25-CE2B79896D24}|P01_HospitalDatabase.Models\\P01_HospitalDatabase.Models.csproj|c:\\users\\alex\\source\\repos\\entityframework\\entityrelations\\p01_hospitaldatabase\\p01_hospitaldatabase.models\\patientmedicament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98657DBE-43EA-4856-BC25-CE2B79896D24}|P01_HospitalDatabase.Models\\P01_HospitalDatabase.Models.csproj|solutionrelative:p01_hospitaldatabase.models\\patientmedicament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\EntityRelations\\P01_HospitalDatabase\\P01_HospitalDatabase.Data\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "P01_HospitalDatabase.Data\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\EntityRelations\\P01_HospitalDatabase\\P01_HospitalDatabase.Data\\Models\\Doctor.cs",
+              "RelativeToolTip": "P01_HospitalDatabase.Data\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T09:10:59.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Visitation.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\EntityRelations\\P01_HospitalDatabase\\P01_HospitalDatabase.Data\\Models\\Visitation.cs",
+              "RelativeDocumentMoniker": "P01_HospitalDatabase.Data\\Models\\Visitation.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\EntityRelations\\P01_HospitalDatabase\\P01_HospitalDatabase.Data\\Models\\Visitation.cs",
+              "RelativeToolTip": "P01_HospitalDatabase.Data\\Models\\Visitation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T08:51:42.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PatientMedicament.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\EntityRelations\\P01_HospitalDatabase\\P01_HospitalDatabase.Data\\Models\\PatientMedicament.cs",
+              "RelativeDocumentMoniker": "P01_HospitalDatabase.Data\\Models\\PatientMedicament.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\EntityRelations\\P01_HospitalDatabase\\P01_HospitalDatabase.Data\\Models\\PatientMedicament.cs",
+              "RelativeToolTip": "P01_HospitalDatabase.Data\\Models\\PatientMedicament.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T08:51:40.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\EntityRelations\\P01_HospitalDatabase\\P01_HospitalDatabase.Data\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "P01_HospitalDatabase.Data\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\EntityRelations\\P01_HospitalDatabase\\P01_HospitalDatabase.Data\\Models\\Patient.cs",
+              "RelativeToolTip": "P01_HospitalDatabase.Data\\Models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T08:51:37.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Medicament.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\EntityRelations\\P01_HospitalDatabase\\P01_HospitalDatabase.Data\\Models\\Medicament.cs",
+              "RelativeDocumentMoniker": "P01_HospitalDatabase.Data\\Models\\Medicament.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\EntityRelations\\P01_HospitalDatabase\\P01_HospitalDatabase.Data\\Models\\Medicament.cs",
+              "RelativeToolTip": "P01_HospitalDatabase.Data\\Models\\Medicament.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T08:51:30.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Diagnose.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\EntityRelations\\P01_HospitalDatabase\\P01_HospitalDatabase.Data\\Models\\Diagnose.cs",
+              "RelativeDocumentMoniker": "P01_HospitalDatabase.Data\\Models\\Diagnose.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\EntityRelations\\P01_HospitalDatabase\\P01_HospitalDatabase.Data\\Models\\Diagnose.cs",
+              "RelativeToolTip": "P01_HospitalDatabase.Data\\Models\\Diagnose.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T08:50:11.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HospitalContext.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\EntityRelations\\P01_HospitalDatabase\\P01_HospitalDatabase.Data\\HospitalContext.cs",
+              "RelativeDocumentMoniker": "P01_HospitalDatabase.Data\\HospitalContext.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\EntityRelations\\P01_HospitalDatabase\\P01_HospitalDatabase.Data\\HospitalContext.cs",
+              "RelativeToolTip": "P01_HospitalDatabase.Data\\HospitalContext.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAkwE4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T15:33:43.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Diagnose.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\EntityRelations\\P01_HospitalDatabase\\P01_HospitalDatabase.Models\\Diagnose.cs",
+              "RelativeDocumentMoniker": "P01_HospitalDatabase.Models\\Diagnose.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\EntityRelations\\P01_HospitalDatabase\\P01_HospitalDatabase.Models\\Diagnose.cs",
+              "RelativeToolTip": "P01_HospitalDatabase.Models\\Diagnose.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T15:16:31.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\EntityRelations\\P01_HospitalDatabase\\P01_HospitalDatabase\\StartUp.cs",
+              "RelativeDocumentMoniker": "P01_HospitalDatabase\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\EntityRelations\\P01_HospitalDatabase\\P01_HospitalDatabase\\StartUp.cs",
+              "RelativeToolTip": "P01_HospitalDatabase\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T14:53:39.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EntityValidation.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\EntityRelations\\P01_HospitalDatabase\\P01_HospitalDatabase.Common\\EntityValidation.cs",
+              "RelativeDocumentMoniker": "P01_HospitalDatabase.Common\\EntityValidation.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\EntityRelations\\P01_HospitalDatabase\\P01_HospitalDatabase.Common\\EntityValidation.cs",
+              "RelativeToolTip": "P01_HospitalDatabase.Common\\EntityValidation.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAIAwwCYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T14:58:41.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Medicament.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\EntityRelations\\P01_HospitalDatabase\\P01_HospitalDatabase.Models\\Medicament.cs",
+              "RelativeDocumentMoniker": "P01_HospitalDatabase.Models\\Medicament.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\EntityRelations\\P01_HospitalDatabase\\P01_HospitalDatabase.Models\\Medicament.cs",
+              "RelativeToolTip": "P01_HospitalDatabase.Models\\Medicament.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T15:27:31.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PatientMedicament.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\EntityRelations\\P01_HospitalDatabase\\P01_HospitalDatabase.Models\\PatientMedicament.cs",
+              "RelativeDocumentMoniker": "P01_HospitalDatabase.Models\\PatientMedicament.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\EntityRelations\\P01_HospitalDatabase\\P01_HospitalDatabase.Models\\PatientMedicament.cs",
+              "RelativeToolTip": "P01_HospitalDatabase.Models\\PatientMedicament.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T15:30:43.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Visitation.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\EntityRelations\\P01_HospitalDatabase\\P01_HospitalDatabase.Models\\Visitation.cs",
+              "RelativeDocumentMoniker": "P01_HospitalDatabase.Models\\Visitation.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\EntityRelations\\P01_HospitalDatabase\\P01_HospitalDatabase.Models\\Visitation.cs",
+              "RelativeToolTip": "P01_HospitalDatabase.Models\\Visitation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T15:11:38.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\EntityRelations\\P01_HospitalDatabase\\P01_HospitalDatabase.Models\\Patient.cs",
+              "RelativeDocumentMoniker": "P01_HospitalDatabase.Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\EntityRelations\\P01_HospitalDatabase\\P01_HospitalDatabase.Models\\Patient.cs",
+              "RelativeToolTip": "P01_HospitalDatabase.Models\\Patient.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACoAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T14:54:37.096Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Users\Alex\source\repos\EntityFramework\EntityRelations\02.FootballBetting\02.FootballBetting.Data\bin\Debug\net6.0\02.FootballBetting.Data.deps.json
+C:\Users\Alex\source\repos\EntityFramework\EntityRelations\02.FootballBetting\02.FootballBetting.Data\bin\Debug\net6.0\02.FootballBetting.Data.runtimeconfig.json
+C:\Users\Alex\source\repos\EntityFramework\EntityRelations\02.FootballBetting\02.FootballBetting.Data\bin\Debug\net6.0\02.FootballBetting.Data.dll
+C:\Users\Alex\source\repos\EntityFramework\EntityRelations\02.FootballBetting\02.FootballBetting.Data\bin\Debug\net6.0\02.FootballBetting.Data.pdb
+C:\Users\Alex\source\repos\EntityFramework\EntityRelations\02.FootballBetting\02.FootballBetting.Data\bin\Debug\net6.0\02.FootballBetting.Models.dll
+C:\Users\Alex\source\repos\EntityFramework\EntityRelations\02.FootballBetting\02.FootballBetting.Data\bin\Debug\net6.0\02.FootballBetting.Models.pdb
+C:\Users\Alex\source\repos\EntityFramework\EntityRelations\02.FootballBetting\02.FootballBetting.Data\obj\Debug\net6.0\02.FootballBetting.Data.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\EntityFramework\EntityRelations\02.FootballBetting\02.FootballBetting.Data\obj\Debug\net6.0\02.FootballBetting.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\EntityFramework\EntityRelations\02.FootballBetting\02.FootballBetting.Data\obj\Debug\net6.0\02.FootballBetting.Data.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\EntityFramework\EntityRelations\02.FootballBetting\02.FootballBetting.Data\obj\Debug\net6.0\02.FootballBetting.Data.AssemblyInfo.cs
+C:\Users\Alex\source\repos\EntityFramework\EntityRelations\02.FootballBetting\02.FootballBetting.Data\obj\Debug\net6.0\02.FootballBetting.Data.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\EntityFramework\EntityRelations\02.FootballBetting\02.FootballBetting.Data\obj\Debug\net6.0\02.Footb.182B49EC.Up2Date
+C:\Users\Alex\source\repos\EntityFramework\EntityRelations\02.FootballBetting\02.FootballBetting.Data\obj\Debug\net6.0\02.FootballBetting.Data.dll
+C:\Users\Alex\source\repos\EntityFramework\EntityRelations\02.FootballBetting\02.FootballBetting.Data\obj\Debug\net6.0\refint\02.FootballBetting.Data.dll
+C:\Users\Alex\source\repos\EntityFramework\EntityRelations\02.FootballBetting\02.FootballBetting.Data\obj\Debug\net6.0\02.FootballBetting.Data.pdb
+C:\Users\Alex\source\repos\EntityFramework\EntityRelations\02.FootballBetting\02.FootballBetting.Data\obj\Debug\net6.0\02.FootballBetting.Data.genruntimeconfig.cache
+C:\Users\Alex\source\repos\EntityFramework\EntityRelations\02.FootballBetting\02.FootballBetting.Data\obj\Debug\net6.0\ref\02.FootballBetting.Data.dll
