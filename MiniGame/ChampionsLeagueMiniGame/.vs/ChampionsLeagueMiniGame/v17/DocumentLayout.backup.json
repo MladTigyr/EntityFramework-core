@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\MiniGame\\ChampionsLeagueMiniGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE915EA-71E5-4378-98E8-C6187C5ADFB8}|ChampionsLeagueMiniGame\\ChampionsLeagueMiniGame.Core.csproj|c:\\users\\alex\\source\\repos\\entityframework\\minigame\\championsleagueminigame\\championsleagueminigame\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE915EA-71E5-4378-98E8-C6187C5ADFB8}|ChampionsLeagueMiniGame\\ChampionsLeagueMiniGame.Core.csproj|solutionrelative:championsleagueminigame\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8568E92-DD8E-4C1A-97DC-C0CC8065667C}|ChampionsLeagueMiniGame.Data\\ChampionsLeagueMiniGame.Data.csproj|c:\\users\\alex\\source\\repos\\entityframework\\minigame\\championsleagueminigame\\championsleagueminigame.data\\models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8568E92-DD8E-4C1A-97DC-C0CC8065667C}|ChampionsLeagueMiniGame.Data\\ChampionsLeagueMiniGame.Data.csproj|solutionrelative:championsleagueminigame.data\\models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE915EA-71E5-4378-98E8-C6187C5ADFB8}|ChampionsLeagueMiniGame\\ChampionsLeagueMiniGame.Core.csproj|c:\\users\\alex\\source\\repos\\entityframework\\minigame\\championsleagueminigame\\championsleagueminigame\\services\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE915EA-71E5-4378-98E8-C6187C5ADFB8}|ChampionsLeagueMiniGame\\ChampionsLeagueMiniGame.Core.csproj|solutionrelative:championsleagueminigame\\services\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8568E92-DD8E-4C1A-97DC-C0CC8065667C}|ChampionsLeagueMiniGame.Data\\ChampionsLeagueMiniGame.Data.csproj|c:\\users\\alex\\source\\repos\\entityframework\\minigame\\championsleagueminigame\\championsleagueminigame.data\\championsleaguecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8568E92-DD8E-4C1A-97DC-C0CC8065667C}|ChampionsLeagueMiniGame.Data\\ChampionsLeagueMiniGame.Data.csproj|solutionrelative:championsleagueminigame.data\\championsleaguecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994B6D8E-D625-478D-B0D0-33F2B7949B96}|ChampionsLeagueMiniGame.Common\\ChampionsLeagueMiniGame.Common.csproj|c:\\users\\alex\\source\\repos\\entityframework\\minigame\\championsleagueminigame\\championsleagueminigame.common\\entityvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{994B6D8E-D625-478D-B0D0-33F2B7949B96}|ChampionsLeagueMiniGame.Common\\ChampionsLeagueMiniGame.Common.csproj|solutionrelative:championsleagueminigame.common\\entityvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8568E92-DD8E-4C1A-97DC-C0CC8065667C}|ChampionsLeagueMiniGame.Data\\ChampionsLeagueMiniGame.Data.csproj|c:\\users\\alex\\source\\repos\\entityframework\\minigame\\championsleagueminigame\\championsleagueminigame.data\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8568E92-DD8E-4C1A-97DC-C0CC8065667C}|ChampionsLeagueMiniGame.Data\\ChampionsLeagueMiniGame.Data.csproj|solutionrelative:championsleagueminigame.data\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8568E92-DD8E-4C1A-97DC-C0CC8065667C}|ChampionsLeagueMiniGame.Data\\ChampionsLeagueMiniGame.Data.csproj|c:\\users\\alex\\source\\repos\\entityframework\\minigame\\championsleagueminigame\\championsleagueminigame.data\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8568E92-DD8E-4C1A-97DC-C0CC8065667C}|ChampionsLeagueMiniGame.Data\\ChampionsLeagueMiniGame.Data.csproj|solutionrelative:championsleagueminigame.data\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8568E92-DD8E-4C1A-97DC-C0CC8065667C}|ChampionsLeagueMiniGame.Data\\ChampionsLeagueMiniGame.Data.csproj|c:\\users\\alex\\source\\repos\\entityframework\\minigame\\championsleagueminigame\\championsleagueminigame.data\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8568E92-DD8E-4C1A-97DC-C0CC8065667C}|ChampionsLeagueMiniGame.Data\\ChampionsLeagueMiniGame.Data.csproj|solutionrelative:championsleagueminigame.data\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8568E92-DD8E-4C1A-97DC-C0CC8065667C}|ChampionsLeagueMiniGame.Data\\ChampionsLeagueMiniGame.Data.csproj|c:\\users\\alex\\source\\repos\\entityframework\\minigame\\championsleagueminigame\\championsleagueminigame.data\\models\\nationality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8568E92-DD8E-4C1A-97DC-C0CC8065667C}|ChampionsLeagueMiniGame.Data\\ChampionsLeagueMiniGame.Data.csproj|solutionrelative:championsleagueminigame.data\\models\\nationality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\MiniGame\\ChampionsLeagueMiniGame\\ChampionsLeagueMiniGame\\StartUp.cs",
+              "RelativeDocumentMoniker": "ChampionsLeagueMiniGame\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\MiniGame\\ChampionsLeagueMiniGame\\ChampionsLeagueMiniGame\\StartUp.cs",
+              "RelativeToolTip": "ChampionsLeagueMiniGame\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T21:40:07.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\MiniGame\\ChampionsLeagueMiniGame\\ChampionsLeagueMiniGame\\Services\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "ChampionsLeagueMiniGame\\Services\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\MiniGame\\ChampionsLeagueMiniGame\\ChampionsLeagueMiniGame\\Services\\DbInitializer.cs",
+              "RelativeToolTip": "ChampionsLeagueMiniGame\\Services\\DbInitializer.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAYwIMAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T19:41:40.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Match.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\MiniGame\\ChampionsLeagueMiniGame\\ChampionsLeagueMiniGame.Data\\Models\\Match.cs",
+              "RelativeDocumentMoniker": "ChampionsLeagueMiniGame.Data\\Models\\Match.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\MiniGame\\ChampionsLeagueMiniGame\\ChampionsLeagueMiniGame.Data\\Models\\Match.cs",
+              "RelativeToolTip": "ChampionsLeagueMiniGame.Data\\Models\\Match.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T17:05:51.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\MiniGame\\ChampionsLeagueMiniGame\\ChampionsLeagueMiniGame.Data\\Models\\Position.cs",
+              "RelativeDocumentMoniker": "ChampionsLeagueMiniGame.Data\\Models\\Position.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\MiniGame\\ChampionsLeagueMiniGame\\ChampionsLeagueMiniGame.Data\\Models\\Position.cs",
+              "RelativeToolTip": "ChampionsLeagueMiniGame.Data\\Models\\Position.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T16:59:25.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Nationality.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\MiniGame\\ChampionsLeagueMiniGame\\ChampionsLeagueMiniGame.Data\\Models\\Nationality.cs",
+              "RelativeDocumentMoniker": "ChampionsLeagueMiniGame.Data\\Models\\Nationality.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\MiniGame\\ChampionsLeagueMiniGame\\ChampionsLeagueMiniGame.Data\\Models\\Nationality.cs",
+              "RelativeToolTip": "ChampionsLeagueMiniGame.Data\\Models\\Nationality.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T11:37:46.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\MiniGame\\ChampionsLeagueMiniGame\\ChampionsLeagueMiniGame.Data\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "ChampionsLeagueMiniGame.Data\\Models\\Player.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\MiniGame\\ChampionsLeagueMiniGame\\ChampionsLeagueMiniGame.Data\\Models\\Player.cs",
+              "RelativeToolTip": "ChampionsLeagueMiniGame.Data\\Models\\Player.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA5wCMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T11:20:00.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\MiniGame\\ChampionsLeagueMiniGame\\ChampionsLeagueMiniGame.Data\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "ChampionsLeagueMiniGame.Data\\Models\\Team.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\MiniGame\\ChampionsLeagueMiniGame\\ChampionsLeagueMiniGame.Data\\Models\\Team.cs",
+              "RelativeToolTip": "ChampionsLeagueMiniGame.Data\\Models\\Team.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T11:16:58.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChampionsLeagueContext.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\MiniGame\\ChampionsLeagueMiniGame\\ChampionsLeagueMiniGame.Data\\ChampionsLeagueContext.cs",
+              "RelativeDocumentMoniker": "ChampionsLeagueMiniGame.Data\\ChampionsLeagueContext.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\MiniGame\\ChampionsLeagueMiniGame\\ChampionsLeagueMiniGame.Data\\ChampionsLeagueContext.cs",
+              "RelativeToolTip": "ChampionsLeagueMiniGame.Data\\ChampionsLeagueContext.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAArwEIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T10:58:32.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EntityValidation.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\MiniGame\\ChampionsLeagueMiniGame\\ChampionsLeagueMiniGame.Common\\EntityValidation.cs",
+              "RelativeDocumentMoniker": "ChampionsLeagueMiniGame.Common\\EntityValidation.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\MiniGame\\ChampionsLeagueMiniGame\\ChampionsLeagueMiniGame.Common\\EntityValidation.cs",
+              "RelativeToolTip": "ChampionsLeagueMiniGame.Common\\EntityValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T10:51:49.654Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

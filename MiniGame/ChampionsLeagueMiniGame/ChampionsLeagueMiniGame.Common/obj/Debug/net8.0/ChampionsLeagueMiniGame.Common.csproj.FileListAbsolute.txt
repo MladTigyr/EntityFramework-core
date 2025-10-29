@@ -1,0 +1,12 @@
+C:\Users\Alex\source\repos\EntityFramework\MiniGame\ChampionsLeagueMiniGame\ChampionsLeagueMiniGame.Common\bin\Debug\net8.0\ChampionsLeagueMiniGame.Common.deps.json
+C:\Users\Alex\source\repos\EntityFramework\MiniGame\ChampionsLeagueMiniGame\ChampionsLeagueMiniGame.Common\bin\Debug\net8.0\ChampionsLeagueMiniGame.Common.dll
+C:\Users\Alex\source\repos\EntityFramework\MiniGame\ChampionsLeagueMiniGame\ChampionsLeagueMiniGame.Common\bin\Debug\net8.0\ChampionsLeagueMiniGame.Common.pdb
+C:\Users\Alex\source\repos\EntityFramework\MiniGame\ChampionsLeagueMiniGame\ChampionsLeagueMiniGame.Common\obj\Debug\net8.0\ChampionsLeagueMiniGame.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\EntityFramework\MiniGame\ChampionsLeagueMiniGame\ChampionsLeagueMiniGame.Common\obj\Debug\net8.0\ChampionsLeagueMiniGame.Common.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\EntityFramework\MiniGame\ChampionsLeagueMiniGame\ChampionsLeagueMiniGame.Common\obj\Debug\net8.0\ChampionsLeagueMiniGame.Common.AssemblyInfo.cs
+C:\Users\Alex\source\repos\EntityFramework\MiniGame\ChampionsLeagueMiniGame\ChampionsLeagueMiniGame.Common\obj\Debug\net8.0\ChampionsLeagueMiniGame.Common.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\EntityFramework\MiniGame\ChampionsLeagueMiniGame\ChampionsLeagueMiniGame.Common\obj\Debug\net8.0\ChampionsLeagueMiniGame.Common.sourcelink.json
+C:\Users\Alex\source\repos\EntityFramework\MiniGame\ChampionsLeagueMiniGame\ChampionsLeagueMiniGame.Common\obj\Debug\net8.0\ChampionsLeagueMiniGame.Common.dll
+C:\Users\Alex\source\repos\EntityFramework\MiniGame\ChampionsLeagueMiniGame\ChampionsLeagueMiniGame.Common\obj\Debug\net8.0\refint\ChampionsLeagueMiniGame.Common.dll
+C:\Users\Alex\source\repos\EntityFramework\MiniGame\ChampionsLeagueMiniGame\ChampionsLeagueMiniGame.Common\obj\Debug\net8.0\ChampionsLeagueMiniGame.Common.pdb
+C:\Users\Alex\source\repos\EntityFramework\MiniGame\ChampionsLeagueMiniGame\ChampionsLeagueMiniGame.Common\obj\Debug\net8.0\ref\ChampionsLeagueMiniGame.Common.dll
