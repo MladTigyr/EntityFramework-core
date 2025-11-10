@@ -7,12 +7,20 @@
       "RelativeMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|c:\\users\\alex\\source\\repos\\entityframework\\json\\productshop\\dtos\\import\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\dtos\\import\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|c:\\users\\alex\\source\\repos\\entityframework\\json\\productshop\\datasets\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\datasets\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|c:\\users\\alex\\source\\repos\\entityframework\\json\\productshop\\dtos\\import\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\dtos\\import\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|c:\\users\\alex\\source\\repos\\entityframework\\json\\productshop\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|c:\\users\\alex\\source\\repos\\entityframework\\json\\productshop\\dtos\\import\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\dtos\\import\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|c:\\users\\alex\\source\\repos\\entityframework\\json\\productshop\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,10 +35,6 @@
       "RelativeMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|c:\\users\\alex\\source\\repos\\entityframework\\json\\productshop\\dtos\\import\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\dtos\\import\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|c:\\users\\alex\\source\\repos\\entityframework\\json\\productshop\\datasets\\categories-products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\datasets\\categories-products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -41,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|c:\\users\\alex\\source\\repos\\entityframework\\json\\productshop\\datasets\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\datasets\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|c:\\users\\alex\\source\\repos\\entityframework\\json\\productshop\\datasets\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\datasets\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|c:\\users\\alex\\source\\repos\\entityframework\\json\\productshop\\datasets\\categories.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -78,7 +78,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "CategoryProductDto.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\JSON\\ProductShop\\DTOs\\Import\\CategoryProductDto.cs",
               "RelativeDocumentMoniker": "ProductShop\\DTOs\\Import\\CategoryProductDto.cs",
@@ -90,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "categories-products.json",
               "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\JSON\\ProductShop\\Datasets\\categories-products.json",
               "RelativeDocumentMoniker": "ProductShop\\Datasets\\categories-products.json",
@@ -102,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "CategoryDto.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\JSON\\ProductShop\\DTOs\\Import\\CategoryDto.cs",
               "RelativeDocumentMoniker": "ProductShop\\DTOs\\Import\\CategoryDto.cs",
@@ -110,8 +110,7 @@
               "RelativeToolTip": "ProductShop\\DTOs\\Import\\CategoryDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T22:42:08.899Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T22:42:08.899Z"
             },
             {
               "$type": "Document",
@@ -127,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "products.json",
               "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\JSON\\ProductShop\\Datasets\\products.json",
               "RelativeDocumentMoniker": "ProductShop\\Datasets\\products.json",
@@ -151,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\JSON\\ProductShop\\Models\\Category.cs",
               "RelativeDocumentMoniker": "ProductShop\\Models\\Category.cs",
@@ -159,12 +158,11 @@
               "RelativeToolTip": "ProductShop\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T21:04:19.283Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T21:04:19.283Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "CategoryProduct.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\JSON\\ProductShop\\Models\\CategoryProduct.cs",
               "RelativeDocumentMoniker": "ProductShop\\Models\\CategoryProduct.cs",
@@ -172,12 +170,11 @@
               "RelativeToolTip": "ProductShop\\Models\\CategoryProduct.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T21:06:05.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T21:06:05.587Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\JSON\\ProductShop\\Models\\Product.cs",
               "RelativeDocumentMoniker": "ProductShop\\Models\\Product.cs",
@@ -185,12 +182,11 @@
               "RelativeToolTip": "ProductShop\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T21:00:04.779Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T21:00:04.779Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "UserDto.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\JSON\\ProductShop\\DTOs\\Import\\UserDto.cs",
               "RelativeDocumentMoniker": "ProductShop\\DTOs\\Import\\UserDto.cs",
@@ -198,11 +194,12 @@
               "RelativeToolTip": "ProductShop\\DTOs\\Import\\UserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T20:16:55.089Z"
+              "WhenOpened": "2025-11-07T20:16:55.089Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\JSON\\ProductShop\\Models\\User.cs",
               "RelativeDocumentMoniker": "ProductShop\\Models\\User.cs",
@@ -215,15 +212,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "users.json",
               "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\JSON\\ProductShop\\Datasets\\users.json",
               "RelativeDocumentMoniker": "ProductShop\\Datasets\\users.json",
               "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\JSON\\ProductShop\\Datasets\\users.json",
               "RelativeToolTip": "ProductShop\\Datasets\\users.json",
-              "ViewState": "AgIAAPYAAAAAAAAAAAAAAAEAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-07T19:54:00.409Z"
+              "WhenOpened": "2025-11-07T19:54:00.409Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -269,7 +267,7 @@
               "RelativeDocumentMoniker": "ProductShop\\StartUp.cs",
               "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\JSON\\ProductShop\\StartUp.cs",
               "RelativeToolTip": "ProductShop\\StartUp.cs",
-              "ViewState": "AgIAAE0BAAAAAAAAAAAYwFwBAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAALYAAAAAAAAAAAAwwCQAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-07T19:48:20.896Z",
               "EditorCaption": ""

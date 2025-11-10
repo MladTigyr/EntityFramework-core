@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\JSON\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\alex\\source\\repos\\entityframework\\json\\cardealer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\alex\\source\\repos\\entityframework\\json\\cardealer\\dtos\\import\\carsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\import\\carsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\alex\\source\\repos\\entityframework\\json\\cardealer\\datasets\\cars.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\datasets\\cars.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\alex\\source\\repos\\entityframework\\json\\cardealer\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\alex\\source\\repos\\entityframework\\json\\cardealer\\models\\partcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\models\\partcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\alex\\source\\repos\\entityframework\\json\\cardealer\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\alex\\source\\repos\\entityframework\\json\\cardealer\\models\\part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\models\\part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\alex\\source\\repos\\entityframework\\json\\cardealer\\datasets\\parts.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\datasets\\parts.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\alex\\source\\repos\\entityframework\\json\\cardealer\\data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\alex\\source\\repos\\entityframework\\json\\cardealer\\dtos\\import\\partsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\import\\partsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\alex\\source\\repos\\entityframework\\json\\cardealer\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\alex\\source\\repos\\entityframework\\json\\cardealer\\datasets\\suppliers.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\datasets\\suppliers.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\alex\\source\\repos\\entityframework\\json\\cardealer\\dtos\\import\\suppliersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\import\\suppliersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\alex\\source\\repos\\entityframework\\json\\cardealer\\cardealerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\cardealerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\alex\\source\\repos\\entityframework\\json\\cardealer\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\alex\\source\\repos\\entityframework\\json\\cardealer\\data\\cardealercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\data\\cardealercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cars.json",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\JSON\\CarDealer\\Datasets\\cars.json",
+              "RelativeDocumentMoniker": "CarDealer\\Datasets\\cars.json",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\JSON\\CarDealer\\Datasets\\cars.json",
+              "RelativeToolTip": "CarDealer\\Datasets\\cars.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-10T16:06:02.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarsDto.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\JSON\\CarDealer\\DTOs\\Import\\CarsDto.cs",
+              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Import\\CarsDto.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\JSON\\CarDealer\\DTOs\\Import\\CarsDto.cs",
+              "RelativeToolTip": "CarDealer\\DTOs\\Import\\CarsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T16:05:53.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "parts.json",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\JSON\\CarDealer\\Datasets\\parts.json",
+              "RelativeDocumentMoniker": "CarDealer\\Datasets\\parts.json",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\JSON\\CarDealer\\Datasets\\parts.json",
+              "RelativeToolTip": "CarDealer\\Datasets\\parts.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-10T15:46:12.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PartsDto.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\JSON\\CarDealer\\DTOs\\Import\\PartsDto.cs",
+              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Import\\PartsDto.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\JSON\\CarDealer\\DTOs\\Import\\PartsDto.cs",
+              "RelativeToolTip": "CarDealer\\DTOs\\Import\\PartsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T15:45:54.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "suppliers.json",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\JSON\\CarDealer\\Datasets\\suppliers.json",
+              "RelativeDocumentMoniker": "CarDealer\\Datasets\\suppliers.json",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\JSON\\CarDealer\\Datasets\\suppliers.json",
+              "RelativeToolTip": "CarDealer\\Datasets\\suppliers.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-10T15:34:27.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SuppliersDto.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\JSON\\CarDealer\\DTOs\\Import\\SuppliersDto.cs",
+              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Import\\SuppliersDto.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\JSON\\CarDealer\\DTOs\\Import\\SuppliersDto.cs",
+              "RelativeToolTip": "CarDealer\\DTOs\\Import\\SuppliersDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T15:34:02.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CarDealerProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\JSON\\CarDealer\\CarDealerProfile.cs",
+              "RelativeDocumentMoniker": "CarDealer\\CarDealerProfile.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\JSON\\CarDealer\\CarDealerProfile.cs",
+              "RelativeToolTip": "CarDealer\\CarDealerProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T15:15:59.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\JSON\\CarDealer\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "CarDealer\\Models\\Supplier.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\JSON\\CarDealer\\Models\\Supplier.cs",
+              "RelativeToolTip": "CarDealer\\Models\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T15:15:52.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\JSON\\CarDealer\\Models\\Sale.cs",
+              "RelativeDocumentMoniker": "CarDealer\\Models\\Sale.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\JSON\\CarDealer\\Models\\Sale.cs",
+              "RelativeToolTip": "CarDealer\\Models\\Sale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T15:15:47.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PartCar.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\JSON\\CarDealer\\Models\\PartCar.cs",
+              "RelativeDocumentMoniker": "CarDealer\\Models\\PartCar.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\JSON\\CarDealer\\Models\\PartCar.cs",
+              "RelativeToolTip": "CarDealer\\Models\\PartCar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T15:15:40.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Part.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\JSON\\CarDealer\\Models\\Part.cs",
+              "RelativeDocumentMoniker": "CarDealer\\Models\\Part.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\JSON\\CarDealer\\Models\\Part.cs",
+              "RelativeToolTip": "CarDealer\\Models\\Part.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T15:15:28.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\JSON\\CarDealer\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "CarDealer\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\JSON\\CarDealer\\Models\\Customer.cs",
+              "RelativeToolTip": "CarDealer\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T15:15:23.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\JSON\\CarDealer\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "CarDealer\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\JSON\\CarDealer\\Models\\Car.cs",
+              "RelativeToolTip": "CarDealer\\Models\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T15:15:09.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CarDealerContext.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\JSON\\CarDealer\\Data\\CarDealerContext.cs",
+              "RelativeDocumentMoniker": "CarDealer\\Data\\CarDealerContext.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\JSON\\CarDealer\\Data\\CarDealerContext.cs",
+              "RelativeToolTip": "CarDealer\\Data\\CarDealerContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wCYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T15:14:34.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\JSON\\CarDealer\\Data\\Configuration.cs",
+              "RelativeDocumentMoniker": "CarDealer\\Data\\Configuration.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\JSON\\CarDealer\\Data\\Configuration.cs",
+              "RelativeToolTip": "CarDealer\\Data\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T15:14:05.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\JSON\\CarDealer\\StartUp.cs",
+              "RelativeDocumentMoniker": "CarDealer\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\JSON\\CarDealer\\StartUp.cs",
+              "RelativeToolTip": "CarDealer\\StartUp.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwHgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T15:13:57.184Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
