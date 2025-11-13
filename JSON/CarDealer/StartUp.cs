@@ -17,13 +17,13 @@ namespace CarDealer
 
 
             string path = "../../../Datasets/";
-            string currentFile = "cars.json";
+            string currentFile = "sales.json";
 
             string combinedPath = Path.Combine(path, currentFile);
 
             string inputJson = File.ReadAllText(combinedPath);
 
-            string result = ImportCars(context, inputJson);
+            string result = ImportSales(context, inputJson);
             Console.WriteLine(result);
         }
 
@@ -234,6 +234,106 @@ namespace CarDealer
             }
 
             return $"Successfully imported {carsToImport.Count}.";
+        }
+
+        public static string ImportCustomers(CarDealerContext context, string inputJson)
+        {
+            ICollection<Customer> customers = new List<Customer>();
+
+            IEnumerable<CustomerDto>? customersDtos = 
+                JsonConvert.DeserializeObject<CustomerDto[]>(inputJson);
+
+            if (customersDtos != null)
+            {
+                foreach (CustomerDto customerDto in customersDtos)
+                {
+                    if (!IsValid(customerDto))
+                    {
+                        continue;
+                    }
+
+                    bool isBirthDateValid = DateTime
+                        .TryParse(customerDto.BirthDate, out DateTime birthDateValue);
+
+                    bool isYoungDriverValid = bool
+                        .TryParse(customerDto.IsYoungDriver, out bool isYoungDriverValue);
+
+                    if (!isBirthDateValid || !isYoungDriverValid)
+                    {
+                        continue;
+                    }
+
+                    Customer customer = new Customer()
+                    {
+                        Name = customerDto.Name,
+                        BirthDate = birthDateValue,
+                        IsYoungDriver = isYoungDriverValue
+                    };
+
+                    customers.Add(customer);
+                }
+
+                context.Customers.AddRange(customers);
+
+                context.SaveChanges();
+            }
+
+            return $"Successfully imported {customers.Count}.";
+        }
+
+        public static string ImportSales(CarDealerContext context, string inputJson)
+        {
+            ICollection<Sale> sales = new List<Sale>();
+            ICollection<int> existingCarIds = context.Cars
+                .Select(c => c.Id)
+                .ToList();
+            ICollection<int> existingCustomerIds = context.Customers
+                .Select(c => c.Id)
+                .ToList();
+
+            IEnumerable<SaleDto>? saleDtos =
+                JsonConvert.DeserializeObject<SaleDto[]>(inputJson);
+
+            if (saleDtos != null)
+            {
+                foreach (SaleDto saleDto in saleDtos)
+                {
+                    if (!IsValid(saleDto))
+                    {
+                        continue;
+                    }
+
+                    bool isCarIdValid = int
+                        .TryParse(saleDto.CarId, out int carIdValue);
+
+                    bool isCustomerIdValid = int
+                        .TryParse(saleDto.CustomerId, out int customerIdValue);
+
+                    bool isDiscountValid = decimal
+                        .TryParse(saleDto.Discount, out decimal discountValue);
+
+                    if (!isCarIdValid || !isCustomerIdValid || 
+                        !existingCarIds.Contains(carIdValue) || 
+                        !existingCustomerIds.Contains(customerIdValue))
+                    {
+                        continue;
+                    }
+
+                    Sale sale = new Sale()
+                    {
+                        CarId = carIdValue,
+                        CustomerId = customerIdValue,
+                        Discount = discountValue
+                    };
+
+                    sales.Add(sale);
+                }
+                context.Sales.AddRange(sales);
+
+                context.SaveChanges();
+            }
+
+            return $"Successfully imported {sales.Count}.";
         }
 
         private static bool IsValid(object dto)
