@@ -22,5 +22,32 @@ namespace CarDealer.Utilities
             return dtos;
         }
 
+        public static string Serialize<T>(T serializeObject, string rootAttributeName, Dictionary<string, string> namespaces = null)
+        {
+            StringBuilder sb = new StringBuilder();
+
+            XmlSerializerNamespaces ns = new XmlSerializerNamespaces();
+            if (namespaces == null)
+            {
+                ns.Add(string.Empty, string.Empty);
+            }
+            else
+            {
+                foreach (var (prefix, uri) in namespaces)
+                {
+                    ns.Add(prefix, uri);
+                }
+            }
+
+            XmlRootAttribute root = new XmlRootAttribute(rootAttributeName);
+
+            XmlSerializer xmlSerializer = new XmlSerializer(typeof(T), root);
+
+            using StringWriter writer = new StringWriter(sb);
+            xmlSerializer.Serialize(writer, serializeObject, ns);
+
+            return sb.ToString();
+        }
+
     }
 }

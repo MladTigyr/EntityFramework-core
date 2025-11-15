@@ -1,11 +1,15 @@
 ﻿namespace CarDealer
 {
     using CarDealer.Data;
+    using CarDealer.DTOs.Export.ExportCarsFromMake;
+    using CarDealer.DTOs.Export.ExportCarsWithDistance;
+    using CarDealer.DTOs.Export.ExportLocalSuppliers;
     using CarDealer.DTOs.Import;
     using CarDealer.Models;
     using CarDealer.Utilities;
     using Microsoft.EntityFrameworkCore;
     using System.ComponentModel.DataAnnotations;
+    using System.Dynamic;
     using System.Runtime.CompilerServices;
     using System.Xml;
 
@@ -15,7 +19,10 @@
         {
             using CarDealerContext context = new CarDealerContext();
 
-            RecreateAndSeedDatabase(context);
+            //RecreateAndSeedDatabase(context);
+
+            string result = GetLocalSuppliers(context);
+            Console.WriteLine(result);
 
         }
 
@@ -176,6 +183,179 @@
             return $"Successfully imported {cars.Count}";
         }
 
+        public static string ImportCustomers(CarDealerContext context, string inputXml)
+        {
+            ICollection<Customer> customers = new List<Customer>();
+
+            IEnumerable<ImportCustomerDto>? customerDtos = XmlSerializerWrapper
+                .Deserialize<ImportCustomerDto[]>(inputXml, "Customers");
+
+            if (customerDtos != null)
+            {
+                foreach (ImportCustomerDto customerDto in customerDtos)
+                {
+                    if (!IsValid(customerDto))
+                    {
+                        continue;
+                    }
+
+                    bool isBirthDayValid = DateTime
+                        .TryParse(customerDto.BirthDate, out DateTime birthDayValue);
+
+                    bool isYoungDriverValid = bool
+                        .TryParse(customerDto.IsYoungDriver, out bool isYoungDriverValue);
+
+                    if (!isBirthDayValid || !isYoungDriverValid)
+                    {
+                        continue;
+                    }
+
+                    Customer customer = new()
+                    {
+                        Name = customerDto.Name,
+                        BirthDate = birthDayValue,
+                        IsYoungDriver = isYoungDriverValue
+                    };
+
+                    customers.Add(customer);
+                }
+
+                context.Customers.AddRange(customers);
+
+                context.SaveChanges();
+            }
+
+            return $"Successfully imported {customers.Count}";
+        }
+
+        public static string ImportSales(CarDealerContext context, string inputXml)
+        {
+            ICollection<Sale> sales = new List<Sale>();
+            ICollection<int> existingCarIds = context.Cars
+                .AsNoTracking()
+                .Select(c => c.Id)
+                .ToArray();
+            ICollection<int> existingCustomerIds = context.Customers
+                .AsNoTracking()
+                .Select(c => c.Id)
+                .ToArray();
+
+            IEnumerable<ImportSaleDto>? saleDtos = XmlSerializerWrapper
+                .Deserialize<ImportSaleDto[]>(inputXml, "Sales");
+
+            if (saleDtos != null)
+            {
+                foreach (ImportSaleDto saleDto in saleDtos)
+                {
+                    if (!IsValid(saleDto))
+                    {
+                        continue;
+                    }
+
+                    bool isCardValid = int
+                        .TryParse(saleDto.CarId, out int carIdValue);
+
+                    bool isCustomerValid = int
+                        .TryParse(saleDto.CustomerId, out int customerIdValue);
+
+                    bool isDiscountValid = decimal
+                        .TryParse(saleDto.Discount, out decimal discountValue);
+
+                    if (!isCardValid || !isCustomerValid || !isDiscountValid ||
+                        !existingCarIds.Contains(carIdValue) || !existingCustomerIds.Contains(customerIdValue))
+                    {
+                        continue;
+                    }
+
+                    Sale sale = new()
+                    {
+                        CarId = carIdValue,
+                        CustomerId = customerIdValue,
+                        Discount = discountValue
+                    };
+
+                    sales.Add(sale);
+                }
+
+                context.Sales.AddRange(sales);
+
+                context.SaveChanges();
+            }
+
+            return $"Successfully imported {sales.Count}";
+        }
+
+        public static string GetCarsWithDistance(CarDealerContext context)
+        {
+            ExportCarRoot rootDto = new()
+            {
+                Car = context.Cars
+                    .AsNoTracking()
+                    .Where(c => c.TraveledDistance > 2000000)
+                    .OrderBy(c => c.Make)
+                    .ThenBy(c => c.Model)
+                    .Select(c => new ExportCarDetails
+                    {
+                        Make = c.Make,
+                        Model = c.Model,
+                        TravelledDistance = c.TraveledDistance
+                    })
+                    .Take(10)
+                    .ToArray()
+            };
+
+            string result = XmlSerializerWrapper
+                .Serialize(rootDto, "cars");
+
+            return result;
+        }
+
+        public static string GetCarsFromMakeBmw(CarDealerContext context)
+        {
+            ExportCarRootMake exportDto = new()
+            {
+                Car = context.Cars
+                    .AsNoTracking()
+                    .Where(c => c.Make == "BMW")
+                    .OrderBy(c => c.Model)
+                    .ThenByDescending(c => c.TraveledDistance)
+                    .Select(c => new ExportCarMakeDetails
+                    {
+                        Id = c.Id.ToString(),
+                        Model = c.Model,
+                        TravelledDistance = c.TraveledDistance.ToString()
+                    })
+                    .ToArray()
+            };
+
+            string result = XmlSerializerWrapper
+                .Serialize(exportDto, "cars");
+
+            return result;
+        }
+
+        public static string GetLocalSuppliers(CarDealerContext context)
+        {
+            ExportSupplierRoot exportDto = new()
+            {
+                Supplier = context.Suppliers
+                    .AsNoTracking()
+                    .Where(s => s.IsImporter == false)
+                    .Select(s => new ExportSupplierDetails
+                    {
+                        Id = s.Id.ToString(),
+                        Name = s.Name,
+                        PartsCount = s.Parts.Count.ToString()
+                    })
+                    .ToArray()
+            };
+
+            string result = XmlSerializerWrapper
+                .Serialize(exportDto, "suppliers");
+
+            return result;
+        }
+
         private static void RecreateAndSeedDatabase(CarDealerContext context)
         {
             context.Database.EnsureDeleted();
@@ -195,6 +375,14 @@
             inputXml = File.ReadAllText(Path.Combine(path, "cars.xml"));
 
             result = ImportCars(context, inputXml);
+
+            inputXml = File.ReadAllText(Path.Combine(path, "customers.xml"));
+
+            result = ImportCustomers(context, inputXml);
+
+            inputXml = File.ReadAllText(Path.Combine(path, "sales.xml"));
+
+            result = ImportSales(context, inputXml);
 
             Console.WriteLine(result);
         }
