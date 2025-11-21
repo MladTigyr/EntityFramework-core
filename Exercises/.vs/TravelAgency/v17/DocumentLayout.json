@@ -3,28 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\travelagency\\data\\travelagencycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\data\\travelagencycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\travelagency\\entityvalidation\\entityvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\entityvalidation\\entityvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\travelagency\\dataprocessor\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\dataprocessor\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\travelagency\\data\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\data\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\travelagency\\dataprocessor\\importdtos\\xml\\importcustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\dataprocessor\\importdtos\\xml\\importcustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\travelagency\\data\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\data\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\travelagency\\utilities\\xmlwrapperserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\utilities\\xmlwrapperserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\travelagency\\data\\travelagencycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\data\\travelagencycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\travelagency\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\travelagency\\data\\models\\tourpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\data\\models\\tourpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\travelagency\\data\\models\\guide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\data\\models\\guide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\travelagency\\entityvalidation\\entityvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\entityvalidation\\entityvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\travelagency\\data\\models\\tourpackageguide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,8 +47,8 @@
       "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\data\\models\\enums\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\travelagency\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\travelagency\\data\\models\\guide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\data\\models\\guide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,8 +58,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Deserializer.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\TravelAgency\\DataProcessor\\Deserializer.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\DataProcessor\\Deserializer.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\TravelAgency\\DataProcessor\\Deserializer.cs",
+              "RelativeToolTip": "TravelAgency\\DataProcessor\\Deserializer.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAmwEkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T15:48:07.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImportCustomerDto.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\TravelAgency\\DataProcessor\\ImportDtos\\Xml\\ImportCustomerDto.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\DataProcessor\\ImportDtos\\Xml\\ImportCustomerDto.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\TravelAgency\\DataProcessor\\ImportDtos\\Xml\\ImportCustomerDto.cs",
+              "RelativeToolTip": "TravelAgency\\DataProcessor\\ImportDtos\\Xml\\ImportCustomerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T16:01:38.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "XmlWrapperSerializer.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\TravelAgency\\Utilities\\XmlWrapperSerializer.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\Utilities\\XmlWrapperSerializer.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\TravelAgency\\Utilities\\XmlWrapperSerializer.cs",
+              "RelativeToolTip": "TravelAgency\\Utilities\\XmlWrapperSerializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T15:52:11.175Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -63,20 +114,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\TravelAgency\\Data\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "TravelAgency\\Data\\Models\\Customer.cs",
               "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\TravelAgency\\Data\\Models\\Customer.cs",
               "RelativeToolTip": "TravelAgency\\Data\\Models\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-19T19:30:35.583Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "TourPackageGuide.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\TravelAgency\\Data\\Models\\TourPackageGuide.cs",
               "RelativeDocumentMoniker": "TravelAgency\\Data\\Models\\TourPackageGuide.cs",
@@ -89,33 +140,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "TourPackage.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\TravelAgency\\Data\\Models\\TourPackage.cs",
               "RelativeDocumentMoniker": "TravelAgency\\Data\\Models\\TourPackage.cs",
               "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\TravelAgency\\Data\\Models\\TourPackage.cs",
               "RelativeToolTip": "TravelAgency\\Data\\Models\\TourPackage.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-19T19:26:27.797Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Language.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\TravelAgency\\Data\\Models\\Enums\\Language.cs",
               "RelativeDocumentMoniker": "TravelAgency\\Data\\Models\\Enums\\Language.cs",
               "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\TravelAgency\\Data\\Models\\Enums\\Language.cs",
               "RelativeToolTip": "TravelAgency\\Data\\Models\\Enums\\Language.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-19T19:25:22.068Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "Guide.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\TravelAgency\\Data\\Models\\Guide.cs",
               "RelativeDocumentMoniker": "TravelAgency\\Data\\Models\\Guide.cs",
@@ -123,44 +174,43 @@
               "RelativeToolTip": "TravelAgency\\Data\\Models\\Guide.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T19:23:10.357Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T19:23:10.357Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "EntityValidation.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\TravelAgency\\EntityValidation\\EntityValidation.cs",
               "RelativeDocumentMoniker": "TravelAgency\\EntityValidation\\EntityValidation.cs",
               "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\TravelAgency\\EntityValidation\\EntityValidation.cs",
               "RelativeToolTip": "TravelAgency\\EntityValidation\\EntityValidation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAnwBUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-19T19:14:16.836Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "TravelAgencyContext.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\TravelAgency\\Data\\TravelAgencyContext.cs",
               "RelativeDocumentMoniker": "TravelAgency\\Data\\TravelAgencyContext.cs",
               "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\TravelAgency\\Data\\TravelAgencyContext.cs",
               "RelativeToolTip": "TravelAgency\\Data\\TravelAgencyContext.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAwwB4AAABYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-19T19:10:07.905Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "StartUp.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\TravelAgency\\StartUp.cs",
               "RelativeDocumentMoniker": "TravelAgency\\StartUp.cs",
               "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\TravelAgency\\StartUp.cs",
               "RelativeToolTip": "TravelAgency\\StartUp.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-19T19:05:47.822Z",
               "EditorCaption": ""

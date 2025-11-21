@@ -12,15 +12,15 @@ namespace TravelAgency
 
             ResetDatabase(context, shouldDropDatabse: true);
 
-            var projectDir = GetProjectDirectory();
+            //var projectDir = GetProjectDirectory();
 
-            ImportEntities(context, projectDir + @"Datasets/", projectDir + @"ImportResults/");
-            ExportEntities(context, projectDir + @"ExportResults/");
+            //ImportEntities(context, projectDir + @"Datasets/", projectDir + @"ImportResults/");
+            //ExportEntities(context, projectDir + @"ExportResults/");
 
-            using (var transaction = context.Database.BeginTransaction())
-            {
-                transaction.Rollback();
-            }
+            //using (var transaction = context.Database.BeginTransaction())
+            //{
+            //    transaction.Rollback();
+            //}
         }
 
         private static void ExportEntities(TravelAgencyContext context, string exportDir)

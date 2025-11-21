@@ -11,7 +11,7 @@ namespace TravelAgency.Data.Models.Enums
         English = 0,
         German = 1,
         French = 2,
-        Spain = 3,
+        Spanish = 3,
         Russian = 4,
     }
 }

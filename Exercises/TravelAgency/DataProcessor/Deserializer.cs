@@ -1,5 +1,10 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using Microsoft.EntityFrameworkCore;
+using System.ComponentModel.DataAnnotations;
+using System.Text;
 using TravelAgency.Data;
+using TravelAgency.Data.Models;
+using TravelAgency.DataProcessor.ImportDtos.Xml;
+using TravelAgency.Utilities;
 
 namespace TravelAgency.DataProcessor
 {
@@ -12,7 +17,61 @@ namespace TravelAgency.DataProcessor
 
         public static string ImportCustomers(TravelAgencyContext context, string xmlString)
         {
-            throw new NotImplementedException();
+            StringBuilder sb = new StringBuilder();
+
+            ICollection<Customer> customers = new List<Customer>();
+            ICollection<string> customerNames = context.Customers
+                .AsNoTracking()
+                .Select(c => c.FullName)
+                .ToArray();
+
+            ICollection<string> customerEmails = context.Customers
+                .AsNoTracking()
+                .Select(c => c.Email)
+                .ToArray();
+
+            ICollection<string> customerPhones = context.Customers
+                .AsNoTracking()
+                .Select(c => c.PhoneNumber)
+                .ToArray();
+
+            IEnumerable<ImportCustomerDto>? importCustomerDtos = XmlWrapperSerializer
+                .Deserialize<ImportCustomerDto[]>(xmlString, "Customers");
+
+            if (importCustomerDtos != null)
+            {
+                foreach (ImportCustomerDto customerDto in importCustomerDtos)
+                {
+                    if (!IsValid(customerDto))
+                    {
+                        sb.AppendLine(ErrorMessage);
+                        continue;
+                    }
+
+                    if (customerNames.Contains(customerDto.FullName) || customerEmails.Contains(customerDto.Email)
+                        || customerPhones.Contains(customerDto.PhoneNumber))
+                    {
+                        sb.AppendLine(DuplicationDataMessage);
+                        continue;
+                    }
+
+                    Customer customer = new Customer()
+                    {
+                        PhoneNumber = customerDto.PhoneNumber,
+                        FullName = customerDto.FullName,
+                        Email = customerDto.Email,
+                    };
+
+                    customers.Add(customer);
+
+                    sb.AppendLine(string.Format(SuccessfullyImportedCustomer, customerDto.FullName));
+                }
+
+                context.Customers.AddRange(customers);
+                context.SaveChanges();
+            }
+
+            return sb.ToString();
         }
 
         public static string ImportBookings(TravelAgencyContext context, string jsonString)
