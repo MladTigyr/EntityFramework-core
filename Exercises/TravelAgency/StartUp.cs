@@ -12,9 +12,9 @@ namespace TravelAgency
 
             ResetDatabase(context, shouldDropDatabse: true);
 
-            //var projectDir = GetProjectDirectory();
+            var projectDir = GetProjectDirectory();
 
-            //ImportEntities(context, projectDir + @"Datasets/", projectDir + @"ImportResults/");
+            ImportEntities(context, projectDir + @"Datasets/", projectDir + @"ImportResults/");
             //ExportEntities(context, projectDir + @"ExportResults/");
 
             //using (var transaction = context.Database.BeginTransaction())

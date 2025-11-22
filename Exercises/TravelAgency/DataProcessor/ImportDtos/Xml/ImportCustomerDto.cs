@@ -13,15 +13,18 @@ namespace TravelAgency.DataProcessor.ImportDtos.Xml
     [XmlType("Customer")]
     public class ImportCustomerDto
     {
+        [Required]
         [XmlAttribute("phoneNumber")]
         [RegularExpression(CustomerPhoneNumber)]
         public string PhoneNumber { get; set; } = null!;
 
+        [Required]
         [XmlElement("FullName")]
         [MinLength(MinCustomerFullNameLength)]
         [MaxLength(MaxCustomerFullNameLength)]
         public string FullName { get; set; } = null!;
 
+        [Required]
         [XmlElement("Email")]
         [MinLength(MinCustomerEmailLength)]
         [MaxLength(MaxCustomerEmailLength)]

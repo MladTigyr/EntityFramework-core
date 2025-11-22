@@ -1,8 +1,11 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Newtonsoft.Json;
 using System.ComponentModel.DataAnnotations;
+using System.Globalization;
 using System.Text;
 using TravelAgency.Data;
 using TravelAgency.Data.Models;
+using TravelAgency.DataProcessor.ImportDtos.Json;
 using TravelAgency.DataProcessor.ImportDtos.Xml;
 using TravelAgency.Utilities;
 
@@ -76,7 +79,64 @@ namespace TravelAgency.DataProcessor
 
         public static string ImportBookings(TravelAgencyContext context, string jsonString)
         {
-            throw new NotImplementedException();
+            StringBuilder sb = new StringBuilder();
+
+            ICollection<Booking> bookings = new List<Booking>();
+
+            //ICollection<Customer> bookingsNames = context.Customers
+            //    .AsNoTracking()
+            //    .Where(c => c.)
+
+            IEnumerable<ImportBookingsDto>? importBookingsDtos = JsonConvert
+                .DeserializeObject<ImportBookingsDto[]>(jsonString);
+
+            if (importBookingsDtos != null)
+            {
+                foreach (ImportBookingsDto bookingDto in importBookingsDtos)
+                {
+                    if (!IsValid(bookingDto))
+                    {
+                        sb.AppendLine(ErrorMessage);
+                        continue;
+                    }
+
+                    bool isDateValid = DateTime
+                        .TryParseExact(bookingDto.BookingDate, "yyyy-MM-dd", CultureInfo.InvariantCulture, DateTimeStyles.None,
+                        out DateTime dateTime);
+
+                    if (!isDateValid)
+                    {
+                        sb.AppendLine(ErrorMessage);
+                        continue;
+                    }
+
+                    int customerId = context.Customers
+                        .Where(c => c.FullName == bookingDto.CustomerName)
+                        .Select(c => c.Id)
+                        .FirstOrDefault();
+
+                    int tourPackageId = context.TourPackages
+                        .Where(t => t.PackageName == bookingDto.TourPackageName)
+                        .Select(t => t.Id)
+                        .FirstOrDefault();
+
+                    Booking booking = new Booking()
+                    {
+                        BookingDate = dateTime,
+                        CustomerId = customerId,
+                        TourPackageId = tourPackageId
+                    };
+
+                    bookings.Add(booking);
+
+                    sb.AppendLine(string.Format(SuccessfullyImportedBooking, bookingDto.TourPackageName , booking.BookingDate.ToString("yyyy-MM-dd")));
+                }
+
+                context.Bookings.AddRange(bookings);
+                context.SaveChanges(); 
+            }
+
+            return sb.ToString();
         }
 
         public static bool IsValid(object dto)
