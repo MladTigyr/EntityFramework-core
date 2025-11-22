@@ -21,5 +21,33 @@ namespace Medicines.Utilities
 
             return dtos;
         }
+
+        public static string Serialize<T>(T objToSerialize, string rootName, Dictionary<string, string>? namespaces = null)
+        {
+            StringBuilder sb = new();
+
+            XmlRootAttribute xmlRootAttribute = new(rootName);
+
+            XmlSerializerNamespaces xmlSerializerNamespaces = new XmlSerializerNamespaces();
+            if (namespaces == null)
+            {
+                xmlSerializerNamespaces.Add(string.Empty, string.Empty);
+            }
+            else
+            {
+                foreach (KeyValuePair<string, string> ns in namespaces)
+                {
+                    xmlSerializerNamespaces.Add(ns.Key, ns.Value);
+                }
+            }
+
+            XmlSerializer xmlSerializer = new XmlSerializer(typeof(T), xmlRootAttribute);
+
+            using StringWriter writer = new StringWriter(sb);
+
+            xmlSerializer.Serialize(writer, objToSerialize, xmlSerializerNamespaces);
+
+            return sb.ToString();
+        }
     }
 }
