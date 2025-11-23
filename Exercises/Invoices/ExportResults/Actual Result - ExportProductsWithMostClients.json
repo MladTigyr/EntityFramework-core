@@ -1,0 +1,173 @@
+[
+  {
+    "Name": "MAHLE KX400KIT",
+    "Price": "26.13",
+    "Category": "Tyres",
+    "Clients": [
+      {
+        "Name": "BTS GMBH CO KG",
+        "NumberVat": "DE814592224"
+      },
+      {
+        "Name": "DPS EUROPE AB",
+        "NumberVat": "SE556488676901"
+      },
+      {
+        "Name": "FREIGHTS PC",
+        "NumberVat": "EL801106064"
+      },
+      {
+        "Name": "LY Berditchev Co.",
+        "NumberVat": "BG5464156654654654"
+      },
+      {
+        "Name": "Mr. Medical",
+        "NumberVat": "BG5464156654654654"
+      },
+      {
+        "Name": "SARL FLEXATRANS",
+        "NumberVat": "FR28503105314"
+      },
+      {
+        "Name": "SARL SOVI 34",
+        "NumberVat": "FR63432629426"
+      },
+      {
+        "Name": "TRANS CARGO",
+        "NumberVat": "EL099517837"
+      }
+    ]
+  },
+  {
+    "Name": "MAHLE KC 522D",
+    "Price": "108.30",
+    "Category": "Tyres",
+    "Clients": [
+      {
+        "Name": "FREIGHTS PC",
+        "NumberVat": "EL801106064"
+      },
+      {
+        "Name": "KAMEEN LOGISTIC KG",
+        "NumberVat": "ATU75339778"
+      },
+      {
+        "Name": "LOPERBEN SL",
+        "NumberVat": "ESB24242765"
+      },
+      {
+        "Name": "SARL HEBERGECO",
+        "NumberVat": "FR75532664075"
+      },
+      {
+        "Name": "SARL SOVI 34",
+        "NumberVat": "FR63432629426"
+      },
+      {
+        "Name": "TG TRUCKS GMBH",
+        "NumberVat": "DE254185437"
+      },
+      {
+        "Name": "TRANS CARGO",
+        "NumberVat": "EL099517837"
+      }
+    ]
+  },
+  {
+    "Name": "MAHLE OX434D",
+    "Price": "91.37",
+    "Category": "Tyres",
+    "Clients": [
+      {
+        "Name": "B H TRANSPORT LOGISTIK",
+        "NumberVat": "ATU53998900"
+      },
+      {
+        "Name": "IVECO TRUCK SERVICES SRL",
+        "NumberVat": "RO31625301"
+      },
+      {
+        "Name": "LOPERBEN SL",
+        "NumberVat": "ESB24242765"
+      },
+      {
+        "Name": "Lume Deodorant LLC",
+        "NumberVat": "BG5464156654654654"
+      },
+      {
+        "Name": "Mr. Medical",
+        "NumberVat": "BG5464156654654654"
+      },
+      {
+        "Name": "OFFICINA TURBOCAR SNC",
+        "NumberVat": "IT00364840074"
+      },
+      {
+        "Name": "SARL HEBERGECO",
+        "NumberVat": "FR75532664075"
+      }
+    ]
+  },
+  {
+    "Name": "HENGST E82",
+    "Price": "271.51",
+    "Category": "Tyres",
+    "Clients": [
+      {
+        "Name": "BTS GMBH CO KG",
+        "NumberVat": "DE814592224"
+      },
+      {
+        "Name": "LOPERBEN SL",
+        "NumberVat": "ESB24242765"
+      },
+      {
+        "Name": "Lume Deodorant LLC",
+        "NumberVat": "BG5464156654654654"
+      },
+      {
+        "Name": "SARL FLEXATRANS",
+        "NumberVat": "FR28503105314"
+      },
+      {
+        "Name": "TG TRUCKS GMBH",
+        "NumberVat": "DE254185437"
+      },
+      {
+        "Name": "TRANS CARGO",
+        "NumberVat": "EL099517837"
+      }
+    ]
+  },
+  {
+    "Name": "Tyre H11 24V/70W",
+    "Price": "49.96",
+    "Category": "Tyres",
+    "Clients": [
+      {
+        "Name": "DPS EUROPE AB",
+        "NumberVat": "SE556488676901"
+      },
+      {
+        "Name": "JOSEF PAUL GMBH COKG",
+        "NumberVat": "DE131605560"
+      },
+      {
+        "Name": "JUAN Y ENRIQUE SANCHEZ GA",
+        "NumberVat": "ESB02020543"
+      },
+      {
+        "Name": "MHS TRUCK SERVICE SRL",
+        "NumberVat": "RO33935139"
+      },
+      {
+        "Name": "OFFICINA TURBOCAR SNC",
+        "NumberVat": "IT00364840074"
+      },
+      {
+        "Name": "TG TRUCKS GMBH",
+        "NumberVat": "DE254185437"
+      }
+    ]
+  }
+]
