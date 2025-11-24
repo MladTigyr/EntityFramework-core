@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\boardgames\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\boardgames\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\boardgames\\dataprocessor\\exportdto\\xml\\exportcreatorsrootdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\dataprocessor\\exportdto\\xml\\exportcreatorsrootdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\boardgames\\dataprocessor\\exportdto\\xml\\exportboardgamedetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\dataprocessor\\exportdto\\xml\\exportboardgamedetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\boardgames\\dataprocessor\\exportdto\\xml\\exportcreatordetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\dataprocessor\\exportdto\\xml\\exportcreatordetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\boardgames\\dataprocessor\\importdto\\json\\importsellerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\boardgames\\dataprocessor\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\dataprocessor\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\boardgames\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\boardgames\\utilities\\xmlserializewrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,11 +82,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 17,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExportBoardgameDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Boardgames\\DataProcessor\\ExportDto\\Xml\\ExportBoardgameDetailsDto.cs",
+              "RelativeDocumentMoniker": "Boardgames\\DataProcessor\\ExportDto\\Xml\\ExportBoardgameDetailsDto.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Boardgames\\DataProcessor\\ExportDto\\Xml\\ExportBoardgameDetailsDto.cs",
+              "RelativeToolTip": "Boardgames\\DataProcessor\\ExportDto\\Xml\\ExportBoardgameDetailsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T21:44:20.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExportCreatorDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Boardgames\\DataProcessor\\ExportDto\\Xml\\ExportCreatorDetailsDto.cs",
+              "RelativeDocumentMoniker": "Boardgames\\DataProcessor\\ExportDto\\Xml\\ExportCreatorDetailsDto.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Boardgames\\DataProcessor\\ExportDto\\Xml\\ExportCreatorDetailsDto.cs",
+              "RelativeToolTip": "Boardgames\\DataProcessor\\ExportDto\\Xml\\ExportCreatorDetailsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T21:42:20.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExportCreatorsRootDto.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Boardgames\\DataProcessor\\ExportDto\\Xml\\ExportCreatorsRootDto.cs",
+              "RelativeDocumentMoniker": "Boardgames\\DataProcessor\\ExportDto\\Xml\\ExportCreatorsRootDto.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Boardgames\\DataProcessor\\ExportDto\\Xml\\ExportCreatorsRootDto.cs",
+              "RelativeToolTip": "Boardgames\\DataProcessor\\ExportDto\\Xml\\ExportCreatorsRootDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T21:40:58.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Serializer.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Boardgames\\DataProcessor\\Serializer.cs",
+              "RelativeDocumentMoniker": "Boardgames\\DataProcessor\\Serializer.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Boardgames\\DataProcessor\\Serializer.cs",
+              "RelativeToolTip": "Boardgames\\DataProcessor\\Serializer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA1wBAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T15:31:23.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ImportSellerDto.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Boardgames\\DataProcessor\\ImportDto\\Json\\ImportSellerDto.cs",
               "RelativeDocumentMoniker": "Boardgames\\DataProcessor\\ImportDto\\Json\\ImportSellerDto.cs",
@@ -82,12 +146,11 @@
               "RelativeToolTip": "Boardgames\\DataProcessor\\ImportDto\\Json\\ImportSellerDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T16:38:31.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T16:38:31.393Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Deserializer.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Boardgames\\DataProcessor\\Deserializer.cs",
               "RelativeDocumentMoniker": "Boardgames\\DataProcessor\\Deserializer.cs",
@@ -95,12 +158,11 @@
               "RelativeToolTip": "Boardgames\\DataProcessor\\Deserializer.cs",
               "ViewState": "AgIAAGUAAAAAAAAAAAAowAoAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T16:28:14.185Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T16:28:14.185Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "ImportBoardgamesDetailsDto.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Boardgames\\DataProcessor\\ImportDto\\Xml\\ImportBoardgamesDetailsDto.cs",
               "RelativeDocumentMoniker": "Boardgames\\DataProcessor\\ImportDto\\Xml\\ImportBoardgamesDetailsDto.cs",
@@ -108,12 +170,11 @@
               "RelativeToolTip": "Boardgames\\DataProcessor\\ImportDto\\Xml\\ImportBoardgamesDetailsDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T16:24:08.915Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T16:24:08.915Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "ImportCreatorDetailsDto.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Boardgames\\DataProcessor\\ImportDto\\Xml\\ImportCreatorDetailsDto.cs",
               "RelativeDocumentMoniker": "Boardgames\\DataProcessor\\ImportDto\\Xml\\ImportCreatorDetailsDto.cs",
@@ -121,12 +182,11 @@
               "RelativeToolTip": "Boardgames\\DataProcessor\\ImportDto\\Xml\\ImportCreatorDetailsDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T16:21:59.392Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T16:21:59.392Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Configuration.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Boardgames\\Data\\Configuration.cs",
               "RelativeDocumentMoniker": "Boardgames\\Data\\Configuration.cs",
@@ -134,12 +194,11 @@
               "RelativeToolTip": "Boardgames\\Data\\Configuration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T16:01:50.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T16:01:50.019Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "BoardgamesContext.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Boardgames\\Data\\BoardgamesContext.cs",
               "RelativeDocumentMoniker": "Boardgames\\Data\\BoardgamesContext.cs",
@@ -147,12 +206,11 @@
               "RelativeToolTip": "Boardgames\\Data\\BoardgamesContext.cs",
               "ViewState": "AgIAADgAAAAAAAAAAAAAwEwAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T16:02:01.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T16:02:01.028Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "BoardgameSeller.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Boardgames\\Data\\Models\\BoardgameSeller.cs",
               "RelativeDocumentMoniker": "Boardgames\\Data\\Models\\BoardgameSeller.cs",
@@ -160,12 +218,11 @@
               "RelativeToolTip": "Boardgames\\Data\\Models\\BoardgameSeller.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T16:00:59.046Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T16:00:59.046Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Seller.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Boardgames\\Data\\Models\\Seller.cs",
               "RelativeDocumentMoniker": "Boardgames\\Data\\Models\\Seller.cs",
@@ -173,12 +230,11 @@
               "RelativeToolTip": "Boardgames\\Data\\Models\\Seller.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T15:58:38.414Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T15:58:38.414Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Creator.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Boardgames\\Data\\Models\\Creator.cs",
               "RelativeDocumentMoniker": "Boardgames\\Data\\Models\\Creator.cs",
@@ -186,12 +242,11 @@
               "RelativeToolTip": "Boardgames\\Data\\Models\\Creator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T15:50:02.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T15:50:02.289Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Boardgame.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Boardgames\\Data\\Models\\Boardgame.cs",
               "RelativeDocumentMoniker": "Boardgames\\Data\\Models\\Boardgame.cs",
@@ -199,12 +254,11 @@
               "RelativeToolTip": "Boardgames\\Data\\Models\\Boardgame.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T16:15:27.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T16:15:27.553Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "CategoryType.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Boardgames\\Data\\Models\\Enums\\CategoryType.cs",
               "RelativeDocumentMoniker": "Boardgames\\Data\\Models\\Enums\\CategoryType.cs",
@@ -212,25 +266,11 @@
               "RelativeToolTip": "Boardgames\\Data\\Models\\Enums\\CategoryType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T15:49:18.4Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T15:49:18.4Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Serializer.cs",
-              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Boardgames\\DataProcessor\\Serializer.cs",
-              "RelativeDocumentMoniker": "Boardgames\\DataProcessor\\Serializer.cs",
-              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Boardgames\\DataProcessor\\Serializer.cs",
-              "RelativeToolTip": "Boardgames\\DataProcessor\\Serializer.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwC8AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T15:31:23.723Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "XmlSerializeWrapper.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Boardgames\\Utilities\\XmlSerializeWrapper.cs",
               "RelativeDocumentMoniker": "Boardgames\\Utilities\\XmlSerializeWrapper.cs",
@@ -238,12 +278,11 @@
               "RelativeToolTip": "Boardgames\\Utilities\\XmlSerializeWrapper.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAgwC4AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T15:30:56.48Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T15:30:56.48Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "EntityValidation.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Boardgames\\Common\\EntityValidation.cs",
               "RelativeDocumentMoniker": "Boardgames\\Common\\EntityValidation.cs",
@@ -251,18 +290,17 @@
               "RelativeToolTip": "Boardgames\\Common\\EntityValidation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T15:30:35.098Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T15:30:35.098Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "StartUp.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Boardgames\\StartUp.cs",
               "RelativeDocumentMoniker": "Boardgames\\StartUp.cs",
               "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Boardgames\\StartUp.cs",
               "RelativeToolTip": "Boardgames\\StartUp.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwCwAAACIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T15:30:00.795Z",
               "EditorCaption": ""
