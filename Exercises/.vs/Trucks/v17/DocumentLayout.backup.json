@@ -1,0 +1,393 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93B8D073-5BCE-4726-92EF-2ACEFFD8C40E}|Trucks\\Trucks.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\trucks\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B8D073-5BCE-4726-92EF-2ACEFFD8C40E}|Trucks\\Trucks.csproj|solutionrelative:trucks\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B8D073-5BCE-4726-92EF-2ACEFFD8C40E}|Trucks\\Trucks.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\trucks\\exportresults\\expected result - exportdespatcherswiththeirtrucks.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{93B8D073-5BCE-4726-92EF-2ACEFFD8C40E}|Trucks\\Trucks.csproj|solutionrelative:trucks\\exportresults\\expected result - exportdespatcherswiththeirtrucks.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B8D073-5BCE-4726-92EF-2ACEFFD8C40E}|Trucks\\Trucks.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\trucks\\exportresults\\expected result - exportclientswithmosttrucks.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{93B8D073-5BCE-4726-92EF-2ACEFFD8C40E}|Trucks\\Trucks.csproj|solutionrelative:trucks\\exportresults\\expected result - exportclientswithmosttrucks.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alex\\AppData\\Local\\Temp\\Rar$DIa8480.2555\\Serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B8D073-5BCE-4726-92EF-2ACEFFD8C40E}|Trucks\\Trucks.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\trucks\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B8D073-5BCE-4726-92EF-2ACEFFD8C40E}|Trucks\\Trucks.csproj|solutionrelative:trucks\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B8D073-5BCE-4726-92EF-2ACEFFD8C40E}|Trucks\\Trucks.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\trucks\\dataprocessor\\exportdto\\xml\\exporttruckdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B8D073-5BCE-4726-92EF-2ACEFFD8C40E}|Trucks\\Trucks.csproj|solutionrelative:trucks\\dataprocessor\\exportdto\\xml\\exporttruckdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B8D073-5BCE-4726-92EF-2ACEFFD8C40E}|Trucks\\Trucks.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\trucks\\dataprocessor\\exportdto\\xml\\exportdespatcherdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B8D073-5BCE-4726-92EF-2ACEFFD8C40E}|Trucks\\Trucks.csproj|solutionrelative:trucks\\dataprocessor\\exportdto\\xml\\exportdespatcherdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B8D073-5BCE-4726-92EF-2ACEFFD8C40E}|Trucks\\Trucks.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\trucks\\dataprocessor\\exportdto\\xml\\exportdespatcherrootdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B8D073-5BCE-4726-92EF-2ACEFFD8C40E}|Trucks\\Trucks.csproj|solutionrelative:trucks\\dataprocessor\\exportdto\\xml\\exportdespatcherrootdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B8D073-5BCE-4726-92EF-2ACEFFD8C40E}|Trucks\\Trucks.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\trucks\\utilities\\xmlserializewrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B8D073-5BCE-4726-92EF-2ACEFFD8C40E}|Trucks\\Trucks.csproj|solutionrelative:trucks\\utilities\\xmlserializewrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B8D073-5BCE-4726-92EF-2ACEFFD8C40E}|Trucks\\Trucks.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\trucks\\dataprocessor\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B8D073-5BCE-4726-92EF-2ACEFFD8C40E}|Trucks\\Trucks.csproj|solutionrelative:trucks\\dataprocessor\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B8D073-5BCE-4726-92EF-2ACEFFD8C40E}|Trucks\\Trucks.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\trucks\\data\\truckscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B8D073-5BCE-4726-92EF-2ACEFFD8C40E}|Trucks\\Trucks.csproj|solutionrelative:trucks\\data\\truckscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B8D073-5BCE-4726-92EF-2ACEFFD8C40E}|Trucks\\Trucks.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\trucks\\data\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B8D073-5BCE-4726-92EF-2ACEFFD8C40E}|Trucks\\Trucks.csproj|solutionrelative:trucks\\data\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B8D073-5BCE-4726-92EF-2ACEFFD8C40E}|Trucks\\Trucks.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\trucks\\dataprocessor\\importdto\\json\\importclientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B8D073-5BCE-4726-92EF-2ACEFFD8C40E}|Trucks\\Trucks.csproj|solutionrelative:trucks\\dataprocessor\\importdto\\json\\importclientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B8D073-5BCE-4726-92EF-2ACEFFD8C40E}|Trucks\\Trucks.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\trucks\\dataprocessor\\importdto\\xml\\importtrucksdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B8D073-5BCE-4726-92EF-2ACEFFD8C40E}|Trucks\\Trucks.csproj|solutionrelative:trucks\\dataprocessor\\importdto\\xml\\importtrucksdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B8D073-5BCE-4726-92EF-2ACEFFD8C40E}|Trucks\\Trucks.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\trucks\\common\\entityvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B8D073-5BCE-4726-92EF-2ACEFFD8C40E}|Trucks\\Trucks.csproj|solutionrelative:trucks\\common\\entityvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B8D073-5BCE-4726-92EF-2ACEFFD8C40E}|Trucks\\Trucks.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\trucks\\data\\models\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B8D073-5BCE-4726-92EF-2ACEFFD8C40E}|Trucks\\Trucks.csproj|solutionrelative:trucks\\data\\models\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B8D073-5BCE-4726-92EF-2ACEFFD8C40E}|Trucks\\Trucks.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\trucks\\dataprocessor\\importdto\\xml\\importdespatcherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B8D073-5BCE-4726-92EF-2ACEFFD8C40E}|Trucks\\Trucks.csproj|solutionrelative:trucks\\dataprocessor\\importdto\\xml\\importdespatcherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B8D073-5BCE-4726-92EF-2ACEFFD8C40E}|Trucks\\Trucks.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\trucks\\data\\models\\despatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B8D073-5BCE-4726-92EF-2ACEFFD8C40E}|Trucks\\Trucks.csproj|solutionrelative:trucks\\data\\models\\despatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B8D073-5BCE-4726-92EF-2ACEFFD8C40E}|Trucks\\Trucks.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\trucks\\data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B8D073-5BCE-4726-92EF-2ACEFFD8C40E}|Trucks\\Trucks.csproj|solutionrelative:trucks\\data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B8D073-5BCE-4726-92EF-2ACEFFD8C40E}|Trucks\\Trucks.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\trucks\\data\\models\\clienttruck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B8D073-5BCE-4726-92EF-2ACEFFD8C40E}|Trucks\\Trucks.csproj|solutionrelative:trucks\\data\\models\\clienttruck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B8D073-5BCE-4726-92EF-2ACEFFD8C40E}|Trucks\\Trucks.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\trucks\\data\\models\\enums\\maketype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B8D073-5BCE-4726-92EF-2ACEFFD8C40E}|Trucks\\Trucks.csproj|solutionrelative:trucks\\data\\models\\enums\\maketype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B8D073-5BCE-4726-92EF-2ACEFFD8C40E}|Trucks\\Trucks.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\trucks\\data\\models\\enums\\categorytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B8D073-5BCE-4726-92EF-2ACEFFD8C40E}|Trucks\\Trucks.csproj|solutionrelative:trucks\\data\\models\\enums\\categorytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Expected Result - ExportDespatchersWithTheirTrucks.xml",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Trucks\\ExportResults\\Expected Result - ExportDespatchersWithTheirTrucks.xml",
+              "RelativeDocumentMoniker": "Trucks\\ExportResults\\Expected Result - ExportDespatchersWithTheirTrucks.xml",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Trucks\\ExportResults\\Expected Result - ExportDespatchersWithTheirTrucks.xml",
+              "RelativeToolTip": "Trucks\\ExportResults\\Expected Result - ExportDespatchersWithTheirTrucks.xml",
+              "ViewState": "AgIAAGIBAAAAAAAAAAAiwIgBAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-11-25T16:35:16.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Expected Result - ExportClientsWithMostTrucks.json",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Trucks\\ExportResults\\Expected Result - ExportClientsWithMostTrucks.json",
+              "RelativeDocumentMoniker": "Trucks\\ExportResults\\Expected Result - ExportClientsWithMostTrucks.json",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Trucks\\ExportResults\\Expected Result - ExportClientsWithMostTrucks.json",
+              "RelativeToolTip": "Trucks\\ExportResults\\Expected Result - ExportClientsWithMostTrucks.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-25T16:35:14.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Serializer.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\AppData\\Local\\Temp\\Rar$DIa8480.2555\\Serializer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa8480.2555\\Serializer.cs",
+              "ToolTip": "C:\\Users\\Alex\\AppData\\Local\\Temp\\Rar$DIa8480.2555\\Serializer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa8480.2555\\Serializer.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T16:33:09.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Serializer.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Trucks\\DataProcessor\\Serializer.cs",
+              "RelativeDocumentMoniker": "Trucks\\DataProcessor\\Serializer.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Trucks\\DataProcessor\\Serializer.cs*",
+              "RelativeToolTip": "Trucks\\DataProcessor\\Serializer.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T16:11:06.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExportTruckDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Trucks\\DataProcessor\\ExportDto\\Xml\\ExportTruckDetailsDto.cs",
+              "RelativeDocumentMoniker": "Trucks\\DataProcessor\\ExportDto\\Xml\\ExportTruckDetailsDto.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Trucks\\DataProcessor\\ExportDto\\Xml\\ExportTruckDetailsDto.cs",
+              "RelativeToolTip": "Trucks\\DataProcessor\\ExportDto\\Xml\\ExportTruckDetailsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T16:09:42.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExportDespatcherDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Trucks\\DataProcessor\\ExportDto\\Xml\\ExportDespatcherDetailsDto.cs",
+              "RelativeDocumentMoniker": "Trucks\\DataProcessor\\ExportDto\\Xml\\ExportDespatcherDetailsDto.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Trucks\\DataProcessor\\ExportDto\\Xml\\ExportDespatcherDetailsDto.cs",
+              "RelativeToolTip": "Trucks\\DataProcessor\\ExportDto\\Xml\\ExportDespatcherDetailsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T16:07:50.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExportDespatcherRootDto.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Trucks\\DataProcessor\\ExportDto\\Xml\\ExportDespatcherRootDto.cs",
+              "RelativeDocumentMoniker": "Trucks\\DataProcessor\\ExportDto\\Xml\\ExportDespatcherRootDto.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Trucks\\DataProcessor\\ExportDto\\Xml\\ExportDespatcherRootDto.cs",
+              "RelativeToolTip": "Trucks\\DataProcessor\\ExportDto\\Xml\\ExportDespatcherRootDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T16:06:42.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ImportClientDto.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Trucks\\DataProcessor\\ImportDto\\Json\\ImportClientDto.cs",
+              "RelativeDocumentMoniker": "Trucks\\DataProcessor\\ImportDto\\Json\\ImportClientDto.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Trucks\\DataProcessor\\ImportDto\\Json\\ImportClientDto.cs",
+              "RelativeToolTip": "Trucks\\DataProcessor\\ImportDto\\Json\\ImportClientDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T15:44:29.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ImportTrucksDto.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Trucks\\DataProcessor\\ImportDto\\Xml\\ImportTrucksDto.cs",
+              "RelativeDocumentMoniker": "Trucks\\DataProcessor\\ImportDto\\Xml\\ImportTrucksDto.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Trucks\\DataProcessor\\ImportDto\\Xml\\ImportTrucksDto.cs",
+              "RelativeToolTip": "Trucks\\DataProcessor\\ImportDto\\Xml\\ImportTrucksDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T15:27:08.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ImportDespatcherDto.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Trucks\\DataProcessor\\ImportDto\\Xml\\ImportDespatcherDto.cs",
+              "RelativeDocumentMoniker": "Trucks\\DataProcessor\\ImportDto\\Xml\\ImportDespatcherDto.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Trucks\\DataProcessor\\ImportDto\\Xml\\ImportDespatcherDto.cs",
+              "RelativeToolTip": "Trucks\\DataProcessor\\ImportDto\\Xml\\ImportDespatcherDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T15:23:21.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "XmlSerializeWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Trucks\\Utilities\\XmlSerializeWrapper.cs",
+              "RelativeDocumentMoniker": "Trucks\\Utilities\\XmlSerializeWrapper.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Trucks\\Utilities\\XmlSerializeWrapper.cs",
+              "RelativeToolTip": "Trucks\\Utilities\\XmlSerializeWrapper.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwC4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T15:19:10.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Deserializer.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Trucks\\DataProcessor\\Deserializer.cs",
+              "RelativeDocumentMoniker": "Trucks\\DataProcessor\\Deserializer.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Trucks\\DataProcessor\\Deserializer.cs",
+              "RelativeToolTip": "Trucks\\DataProcessor\\Deserializer.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAwwJ8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T15:18:47.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ClientTruck.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Trucks\\Data\\Models\\ClientTruck.cs",
+              "RelativeDocumentMoniker": "Trucks\\Data\\Models\\ClientTruck.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Trucks\\Data\\Models\\ClientTruck.cs",
+              "RelativeToolTip": "Trucks\\Data\\Models\\ClientTruck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T15:02:53.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Trucks\\Data\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "Trucks\\Data\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Trucks\\Data\\Models\\Client.cs",
+              "RelativeToolTip": "Trucks\\Data\\Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T15:00:35.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Trucks\\Data\\Models\\Truck.cs",
+              "RelativeDocumentMoniker": "Trucks\\Data\\Models\\Truck.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Trucks\\Data\\Models\\Truck.cs",
+              "RelativeToolTip": "Trucks\\Data\\Models\\Truck.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwB8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:57:22.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Despatcher.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Trucks\\Data\\Models\\Despatcher.cs",
+              "RelativeDocumentMoniker": "Trucks\\Data\\Models\\Despatcher.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Trucks\\Data\\Models\\Despatcher.cs",
+              "RelativeToolTip": "Trucks\\Data\\Models\\Despatcher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:53:41.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MakeType.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Trucks\\Data\\Models\\Enums\\MakeType.cs",
+              "RelativeDocumentMoniker": "Trucks\\Data\\Models\\Enums\\MakeType.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Trucks\\Data\\Models\\Enums\\MakeType.cs",
+              "RelativeToolTip": "Trucks\\Data\\Models\\Enums\\MakeType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:53:02.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CategoryType.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Trucks\\Data\\Models\\Enums\\CategoryType.cs",
+              "RelativeDocumentMoniker": "Trucks\\Data\\Models\\Enums\\CategoryType.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Trucks\\Data\\Models\\Enums\\CategoryType.cs",
+              "RelativeToolTip": "Trucks\\Data\\Models\\Enums\\CategoryType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:52:29.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Trucks\\Data\\Configuration.cs",
+              "RelativeDocumentMoniker": "Trucks\\Data\\Configuration.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Trucks\\Data\\Configuration.cs",
+              "RelativeToolTip": "Trucks\\Data\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:52:03.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TrucksContext.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Trucks\\Data\\TrucksContext.cs",
+              "RelativeDocumentMoniker": "Trucks\\Data\\TrucksContext.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Trucks\\Data\\TrucksContext.cs",
+              "RelativeToolTip": "Trucks\\Data\\TrucksContext.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAwFAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:51:57.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EntityValidation.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Trucks\\Common\\EntityValidation.cs",
+              "RelativeDocumentMoniker": "Trucks\\Common\\EntityValidation.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Trucks\\Common\\EntityValidation.cs",
+              "RelativeToolTip": "Trucks\\Common\\EntityValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:40:29.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Trucks\\StartUp.cs",
+              "RelativeDocumentMoniker": "Trucks\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Trucks\\StartUp.cs",
+              "RelativeToolTip": "Trucks\\StartUp.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAkwDcAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:36:44.866Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
