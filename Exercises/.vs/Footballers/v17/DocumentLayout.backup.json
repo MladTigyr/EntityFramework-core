@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{843DD1A4-565F-452C-A9D3-955EA744E2DD}|Footballers\\Footballers.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\footballers\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843DD1A4-565F-452C-A9D3-955EA744E2DD}|Footballers\\Footballers.csproj|solutionrelative:footballers\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843DD1A4-565F-452C-A9D3-955EA744E2DD}|Footballers\\Footballers.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\footballers\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843DD1A4-565F-452C-A9D3-955EA744E2DD}|Footballers\\Footballers.csproj|solutionrelative:footballers\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843DD1A4-565F-452C-A9D3-955EA744E2DD}|Footballers\\Footballers.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\footballers\\utilities\\xmlserializewrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843DD1A4-565F-452C-A9D3-955EA744E2DD}|Footballers\\Footballers.csproj|solutionrelative:footballers\\utilities\\xmlserializewrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843DD1A4-565F-452C-A9D3-955EA744E2DD}|Footballers\\Footballers.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\footballers\\dataprocessor\\exportdto\\xml\\exportcoachdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843DD1A4-565F-452C-A9D3-955EA744E2DD}|Footballers\\Footballers.csproj|solutionrelative:footballers\\dataprocessor\\exportdto\\xml\\exportcoachdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843DD1A4-565F-452C-A9D3-955EA744E2DD}|Footballers\\Footballers.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\footballers\\dataprocessor\\exportdto\\xml\\exportcoachrootdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843DD1A4-565F-452C-A9D3-955EA744E2DD}|Footballers\\Footballers.csproj|solutionrelative:footballers\\dataprocessor\\exportdto\\xml\\exportcoachrootdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843DD1A4-565F-452C-A9D3-955EA744E2DD}|Footballers\\Footballers.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\footballers\\dataprocessor\\exportdto\\xml\\exportfootballerdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843DD1A4-565F-452C-A9D3-955EA744E2DD}|Footballers\\Footballers.csproj|solutionrelative:footballers\\dataprocessor\\exportdto\\xml\\exportfootballerdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843DD1A4-565F-452C-A9D3-955EA744E2DD}|Footballers\\Footballers.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\footballers\\exportresults\\expected result - exportteamswithmostfootballers.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{843DD1A4-565F-452C-A9D3-955EA744E2DD}|Footballers\\Footballers.csproj|solutionrelative:footballers\\exportresults\\expected result - exportteamswithmostfootballers.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843DD1A4-565F-452C-A9D3-955EA744E2DD}|Footballers\\Footballers.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\footballers\\dataprocessor\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843DD1A4-565F-452C-A9D3-955EA744E2DD}|Footballers\\Footballers.csproj|solutionrelative:footballers\\dataprocessor\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843DD1A4-565F-452C-A9D3-955EA744E2DD}|Footballers\\Footballers.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\footballers\\common\\entityvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843DD1A4-565F-452C-A9D3-955EA744E2DD}|Footballers\\Footballers.csproj|solutionrelative:footballers\\common\\entityvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843DD1A4-565F-452C-A9D3-955EA744E2DD}|Footballers\\Footballers.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\footballers\\dataprocessor\\importdto\\json\\importteamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843DD1A4-565F-452C-A9D3-955EA744E2DD}|Footballers\\Footballers.csproj|solutionrelative:footballers\\dataprocessor\\importdto\\json\\importteamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843DD1A4-565F-452C-A9D3-955EA744E2DD}|Footballers\\Footballers.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\footballers\\data\\footballerscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843DD1A4-565F-452C-A9D3-955EA744E2DD}|Footballers\\Footballers.csproj|solutionrelative:footballers\\data\\footballerscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843DD1A4-565F-452C-A9D3-955EA744E2DD}|Footballers\\Footballers.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\footballers\\dataprocessor\\importdto\\xml\\importfootballerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843DD1A4-565F-452C-A9D3-955EA744E2DD}|Footballers\\Footballers.csproj|solutionrelative:footballers\\dataprocessor\\importdto\\xml\\importfootballerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843DD1A4-565F-452C-A9D3-955EA744E2DD}|Footballers\\Footballers.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\footballers\\datasets\\coaches.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{843DD1A4-565F-452C-A9D3-955EA744E2DD}|Footballers\\Footballers.csproj|solutionrelative:footballers\\datasets\\coaches.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843DD1A4-565F-452C-A9D3-955EA744E2DD}|Footballers\\Footballers.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\footballers\\dataprocessor\\importdto\\xml\\importcoachdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843DD1A4-565F-452C-A9D3-955EA744E2DD}|Footballers\\Footballers.csproj|solutionrelative:footballers\\dataprocessor\\importdto\\xml\\importcoachdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843DD1A4-565F-452C-A9D3-955EA744E2DD}|Footballers\\Footballers.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\footballers\\data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843DD1A4-565F-452C-A9D3-955EA744E2DD}|Footballers\\Footballers.csproj|solutionrelative:footballers\\data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843DD1A4-565F-452C-A9D3-955EA744E2DD}|Footballers\\Footballers.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\footballers\\data\\models\\teamfootballer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843DD1A4-565F-452C-A9D3-955EA744E2DD}|Footballers\\Footballers.csproj|solutionrelative:footballers\\data\\models\\teamfootballer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843DD1A4-565F-452C-A9D3-955EA744E2DD}|Footballers\\Footballers.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\footballers\\data\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843DD1A4-565F-452C-A9D3-955EA744E2DD}|Footballers\\Footballers.csproj|solutionrelative:footballers\\data\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843DD1A4-565F-452C-A9D3-955EA744E2DD}|Footballers\\Footballers.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\footballers\\data\\models\\footballer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843DD1A4-565F-452C-A9D3-955EA744E2DD}|Footballers\\Footballers.csproj|solutionrelative:footballers\\data\\models\\footballer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843DD1A4-565F-452C-A9D3-955EA744E2DD}|Footballers\\Footballers.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\footballers\\data\\models\\coach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843DD1A4-565F-452C-A9D3-955EA744E2DD}|Footballers\\Footballers.csproj|solutionrelative:footballers\\data\\models\\coach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843DD1A4-565F-452C-A9D3-955EA744E2DD}|Footballers\\Footballers.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\footballers\\data\\models\\enums\\bestskilltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843DD1A4-565F-452C-A9D3-955EA744E2DD}|Footballers\\Footballers.csproj|solutionrelative:footballers\\data\\models\\enums\\bestskilltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843DD1A4-565F-452C-A9D3-955EA744E2DD}|Footballers\\Footballers.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\footballers\\data\\models\\enums\\positiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843DD1A4-565F-452C-A9D3-955EA744E2DD}|Footballers\\Footballers.csproj|solutionrelative:footballers\\data\\models\\enums\\positiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExportFootballerDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Footballers\\DataProcessor\\ExportDto\\Xml\\ExportFootballerDetailsDto.cs",
+              "RelativeDocumentMoniker": "Footballers\\DataProcessor\\ExportDto\\Xml\\ExportFootballerDetailsDto.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Footballers\\DataProcessor\\ExportDto\\Xml\\ExportFootballerDetailsDto.cs",
+              "RelativeToolTip": "Footballers\\DataProcessor\\ExportDto\\Xml\\ExportFootballerDetailsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:55:56.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExportCoachDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Footballers\\DataProcessor\\ExportDto\\Xml\\ExportCoachDetailsDto.cs",
+              "RelativeDocumentMoniker": "Footballers\\DataProcessor\\ExportDto\\Xml\\ExportCoachDetailsDto.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Footballers\\DataProcessor\\ExportDto\\Xml\\ExportCoachDetailsDto.cs",
+              "RelativeToolTip": "Footballers\\DataProcessor\\ExportDto\\Xml\\ExportCoachDetailsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:54:34.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExportCoachRootDto.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Footballers\\DataProcessor\\ExportDto\\Xml\\ExportCoachRootDto.cs",
+              "RelativeDocumentMoniker": "Footballers\\DataProcessor\\ExportDto\\Xml\\ExportCoachRootDto.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Footballers\\DataProcessor\\ExportDto\\Xml\\ExportCoachRootDto.cs",
+              "RelativeToolTip": "Footballers\\DataProcessor\\ExportDto\\Xml\\ExportCoachRootDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:53:47.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Expected Result - ExportTeamsWithMostFootballers.json",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Footballers\\ExportResults\\Expected Result - ExportTeamsWithMostFootballers.json",
+              "RelativeDocumentMoniker": "Footballers\\ExportResults\\Expected Result - ExportTeamsWithMostFootballers.json",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Footballers\\ExportResults\\Expected Result - ExportTeamsWithMostFootballers.json",
+              "RelativeToolTip": "Footballers\\ExportResults\\Expected Result - ExportTeamsWithMostFootballers.json",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-26T16:50:52.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Serializer.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Footballers\\DataProcessor\\Serializer.cs",
+              "RelativeDocumentMoniker": "Footballers\\DataProcessor\\Serializer.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Footballers\\DataProcessor\\Serializer.cs",
+              "RelativeToolTip": "Footballers\\DataProcessor\\Serializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:11:20.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ImportTeamDto.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Footballers\\DataProcessor\\ImportDto\\Json\\ImportTeamDto.cs",
+              "RelativeDocumentMoniker": "Footballers\\DataProcessor\\ImportDto\\Json\\ImportTeamDto.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Footballers\\DataProcessor\\ImportDto\\Json\\ImportTeamDto.cs",
+              "RelativeToolTip": "Footballers\\DataProcessor\\ImportDto\\Json\\ImportTeamDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:21:37.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "coaches.xml",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Footballers\\Datasets\\coaches.xml",
+              "RelativeDocumentMoniker": "Footballers\\Datasets\\coaches.xml",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Footballers\\Datasets\\coaches.xml",
+              "RelativeToolTip": "Footballers\\Datasets\\coaches.xml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-11-26T16:17:09.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Deserializer.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Footballers\\DataProcessor\\Deserializer.cs",
+              "RelativeDocumentMoniker": "Footballers\\DataProcessor\\Deserializer.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Footballers\\DataProcessor\\Deserializer.cs",
+              "RelativeToolTip": "Footballers\\DataProcessor\\Deserializer.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAWwLQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T15:58:22.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ImportFootballerDto.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Footballers\\DataProcessor\\ImportDto\\Xml\\ImportFootballerDto.cs",
+              "RelativeDocumentMoniker": "Footballers\\DataProcessor\\ImportDto\\Xml\\ImportFootballerDto.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Footballers\\DataProcessor\\ImportDto\\Xml\\ImportFootballerDto.cs",
+              "RelativeToolTip": "Footballers\\DataProcessor\\ImportDto\\Xml\\ImportFootballerDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T15:54:59.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ImportCoachDto.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Footballers\\DataProcessor\\ImportDto\\Xml\\ImportCoachDto.cs",
+              "RelativeDocumentMoniker": "Footballers\\DataProcessor\\ImportDto\\Xml\\ImportCoachDto.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Footballers\\DataProcessor\\ImportDto\\Xml\\ImportCoachDto.cs",
+              "RelativeToolTip": "Footballers\\DataProcessor\\ImportDto\\Xml\\ImportCoachDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T15:51:56.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "XmlSerializeWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Footballers\\Utilities\\XmlSerializeWrapper.cs",
+              "RelativeDocumentMoniker": "Footballers\\Utilities\\XmlSerializeWrapper.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Footballers\\Utilities\\XmlSerializeWrapper.cs",
+              "RelativeToolTip": "Footballers\\Utilities\\XmlSerializeWrapper.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwC0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T15:49:17.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FootballersContext.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Footballers\\Data\\FootballersContext.cs",
+              "RelativeDocumentMoniker": "Footballers\\Data\\FootballersContext.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Footballers\\Data\\FootballersContext.cs",
+              "RelativeToolTip": "Footballers\\Data\\FootballersContext.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAwwD8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T15:39:40.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Footballers\\Data\\Configuration.cs",
+              "RelativeDocumentMoniker": "Footballers\\Data\\Configuration.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Footballers\\Data\\Configuration.cs",
+              "RelativeToolTip": "Footballers\\Data\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T15:39:27.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Footballers\\Data\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "Footballers\\Data\\Models\\Team.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Footballers\\Data\\Models\\Team.cs",
+              "RelativeToolTip": "Footballers\\Data\\Models\\Team.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T15:37:43.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TeamFootballer.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Footballers\\Data\\Models\\TeamFootballer.cs",
+              "RelativeDocumentMoniker": "Footballers\\Data\\Models\\TeamFootballer.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Footballers\\Data\\Models\\TeamFootballer.cs",
+              "RelativeToolTip": "Footballers\\Data\\Models\\TeamFootballer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T15:36:44.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Footballer.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Footballers\\Data\\Models\\Footballer.cs",
+              "RelativeDocumentMoniker": "Footballers\\Data\\Models\\Footballer.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Footballers\\Data\\Models\\Footballer.cs",
+              "RelativeToolTip": "Footballers\\Data\\Models\\Footballer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T15:34:46.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Coach.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Footballers\\Data\\Models\\Coach.cs",
+              "RelativeDocumentMoniker": "Footballers\\Data\\Models\\Coach.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Footballers\\Data\\Models\\Coach.cs",
+              "RelativeToolTip": "Footballers\\Data\\Models\\Coach.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T15:32:53.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BestSkillType.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Footballers\\Data\\Models\\Enums\\BestSkillType.cs",
+              "RelativeDocumentMoniker": "Footballers\\Data\\Models\\Enums\\BestSkillType.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Footballers\\Data\\Models\\Enums\\BestSkillType.cs",
+              "RelativeToolTip": "Footballers\\Data\\Models\\Enums\\BestSkillType.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T15:32:08.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PositionType.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Footballers\\Data\\Models\\Enums\\PositionType.cs",
+              "RelativeDocumentMoniker": "Footballers\\Data\\Models\\Enums\\PositionType.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Footballers\\Data\\Models\\Enums\\PositionType.cs",
+              "RelativeToolTip": "Footballers\\Data\\Models\\Enums\\PositionType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T15:31:34.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EntityValidation.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Footballers\\Common\\EntityValidation.cs",
+              "RelativeDocumentMoniker": "Footballers\\Common\\EntityValidation.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Footballers\\Common\\EntityValidation.cs",
+              "RelativeToolTip": "Footballers\\Common\\EntityValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T15:24:41.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Footballers\\StartUp.cs",
+              "RelativeDocumentMoniker": "Footballers\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Footballers\\StartUp.cs",
+              "RelativeToolTip": "Footballers\\StartUp.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowDgAAACGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T15:22:54.553Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
