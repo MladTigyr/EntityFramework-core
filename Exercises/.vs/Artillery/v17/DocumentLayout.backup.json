@@ -1,0 +1,427 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A01CDA47-D81E-45CF-87F9-02E2A7E41FF5}|Artillery\\Artillery.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\artillery\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01CDA47-D81E-45CF-87F9-02E2A7E41FF5}|Artillery\\Artillery.csproj|solutionrelative:artillery\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01CDA47-D81E-45CF-87F9-02E2A7E41FF5}|Artillery\\Artillery.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\artillery\\dataprocessor\\exportdto\\xml\\exportcountrydetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01CDA47-D81E-45CF-87F9-02E2A7E41FF5}|Artillery\\Artillery.csproj|solutionrelative:artillery\\dataprocessor\\exportdto\\xml\\exportcountrydetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01CDA47-D81E-45CF-87F9-02E2A7E41FF5}|Artillery\\Artillery.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\artillery\\dataprocessor\\exportdto\\xml\\exportgundetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01CDA47-D81E-45CF-87F9-02E2A7E41FF5}|Artillery\\Artillery.csproj|solutionrelative:artillery\\dataprocessor\\exportdto\\xml\\exportgundetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01CDA47-D81E-45CF-87F9-02E2A7E41FF5}|Artillery\\Artillery.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\artillery\\dataprocessor\\exportdto\\xml\\exportgunrootdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01CDA47-D81E-45CF-87F9-02E2A7E41FF5}|Artillery\\Artillery.csproj|solutionrelative:artillery\\dataprocessor\\exportdto\\xml\\exportgunrootdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01CDA47-D81E-45CF-87F9-02E2A7E41FF5}|Artillery\\Artillery.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\artillery\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01CDA47-D81E-45CF-87F9-02E2A7E41FF5}|Artillery\\Artillery.csproj|solutionrelative:artillery\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01CDA47-D81E-45CF-87F9-02E2A7E41FF5}|Artillery\\Artillery.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\artillery\\utilites\\xmlserializewrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01CDA47-D81E-45CF-87F9-02E2A7E41FF5}|Artillery\\Artillery.csproj|solutionrelative:artillery\\utilites\\xmlserializewrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01CDA47-D81E-45CF-87F9-02E2A7E41FF5}|Artillery\\Artillery.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\artillery\\common\\entityvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01CDA47-D81E-45CF-87F9-02E2A7E41FF5}|Artillery\\Artillery.csproj|solutionrelative:artillery\\common\\entityvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01CDA47-D81E-45CF-87F9-02E2A7E41FF5}|Artillery\\Artillery.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\artillery\\dataprocessor\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01CDA47-D81E-45CF-87F9-02E2A7E41FF5}|Artillery\\Artillery.csproj|solutionrelative:artillery\\dataprocessor\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alex\\AppData\\Local\\Temp\\Rar$DIa26784.47025\\Deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01CDA47-D81E-45CF-87F9-02E2A7E41FF5}|Artillery\\Artillery.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\artillery\\artilleryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01CDA47-D81E-45CF-87F9-02E2A7E41FF5}|Artillery\\Artillery.csproj|solutionrelative:artillery\\artilleryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01CDA47-D81E-45CF-87F9-02E2A7E41FF5}|Artillery\\Artillery.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\artillery\\datasets\\guns.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A01CDA47-D81E-45CF-87F9-02E2A7E41FF5}|Artillery\\Artillery.csproj|solutionrelative:artillery\\datasets\\guns.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01CDA47-D81E-45CF-87F9-02E2A7E41FF5}|Artillery\\Artillery.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\artillery\\data\\models\\enums\\guntype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01CDA47-D81E-45CF-87F9-02E2A7E41FF5}|Artillery\\Artillery.csproj|solutionrelative:artillery\\data\\models\\enums\\guntype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01CDA47-D81E-45CF-87F9-02E2A7E41FF5}|Artillery\\Artillery.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\artillery\\dataprocessor\\importdto\\json\\importgundto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01CDA47-D81E-45CF-87F9-02E2A7E41FF5}|Artillery\\Artillery.csproj|solutionrelative:artillery\\dataprocessor\\importdto\\json\\importgundto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01CDA47-D81E-45CF-87F9-02E2A7E41FF5}|Artillery\\Artillery.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\artillery\\dataprocessor\\importdto\\json\\importcountryiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01CDA47-D81E-45CF-87F9-02E2A7E41FF5}|Artillery\\Artillery.csproj|solutionrelative:artillery\\dataprocessor\\importdto\\json\\importcountryiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01CDA47-D81E-45CF-87F9-02E2A7E41FF5}|Artillery\\Artillery.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\artillery\\dataprocessor\\importdto\\xml\\importshelldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01CDA47-D81E-45CF-87F9-02E2A7E41FF5}|Artillery\\Artillery.csproj|solutionrelative:artillery\\dataprocessor\\importdto\\xml\\importshelldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01CDA47-D81E-45CF-87F9-02E2A7E41FF5}|Artillery\\Artillery.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\artillery\\data\\artillerycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01CDA47-D81E-45CF-87F9-02E2A7E41FF5}|Artillery\\Artillery.csproj|solutionrelative:artillery\\data\\artillerycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01CDA47-D81E-45CF-87F9-02E2A7E41FF5}|Artillery\\Artillery.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\artillery\\dataprocessor\\importdto\\xml\\importmanufacturerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01CDA47-D81E-45CF-87F9-02E2A7E41FF5}|Artillery\\Artillery.csproj|solutionrelative:artillery\\dataprocessor\\importdto\\xml\\importmanufacturerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01CDA47-D81E-45CF-87F9-02E2A7E41FF5}|Artillery\\Artillery.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\artillery\\dataprocessor\\importdto\\xml\\importcountrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01CDA47-D81E-45CF-87F9-02E2A7E41FF5}|Artillery\\Artillery.csproj|solutionrelative:artillery\\dataprocessor\\importdto\\xml\\importcountrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01CDA47-D81E-45CF-87F9-02E2A7E41FF5}|Artillery\\Artillery.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\artillery\\data\\models\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01CDA47-D81E-45CF-87F9-02E2A7E41FF5}|Artillery\\Artillery.csproj|solutionrelative:artillery\\data\\models\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01CDA47-D81E-45CF-87F9-02E2A7E41FF5}|Artillery\\Artillery.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\artillery\\data\\models\\manufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01CDA47-D81E-45CF-87F9-02E2A7E41FF5}|Artillery\\Artillery.csproj|solutionrelative:artillery\\data\\models\\manufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01CDA47-D81E-45CF-87F9-02E2A7E41FF5}|Artillery\\Artillery.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\artillery\\data\\models\\shell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01CDA47-D81E-45CF-87F9-02E2A7E41FF5}|Artillery\\Artillery.csproj|solutionrelative:artillery\\data\\models\\shell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01CDA47-D81E-45CF-87F9-02E2A7E41FF5}|Artillery\\Artillery.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\artillery\\data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01CDA47-D81E-45CF-87F9-02E2A7E41FF5}|Artillery\\Artillery.csproj|solutionrelative:artillery\\data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01CDA47-D81E-45CF-87F9-02E2A7E41FF5}|Artillery\\Artillery.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\artillery\\data\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01CDA47-D81E-45CF-87F9-02E2A7E41FF5}|Artillery\\Artillery.csproj|solutionrelative:artillery\\data\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01CDA47-D81E-45CF-87F9-02E2A7E41FF5}|Artillery\\Artillery.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\artillery\\data\\models\\countrygun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01CDA47-D81E-45CF-87F9-02E2A7E41FF5}|Artillery\\Artillery.csproj|solutionrelative:artillery\\data\\models\\countrygun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExportCountryDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Artillery\\DataProcessor\\ExportDto\\Xml\\ExportCountryDetailsDto.cs",
+              "RelativeDocumentMoniker": "Artillery\\DataProcessor\\ExportDto\\Xml\\ExportCountryDetailsDto.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Artillery\\DataProcessor\\ExportDto\\Xml\\ExportCountryDetailsDto.cs",
+              "RelativeToolTip": "Artillery\\DataProcessor\\ExportDto\\Xml\\ExportCountryDetailsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T14:09:31.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExportGunDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Artillery\\DataProcessor\\ExportDto\\Xml\\ExportGunDetailsDto.cs",
+              "RelativeDocumentMoniker": "Artillery\\DataProcessor\\ExportDto\\Xml\\ExportGunDetailsDto.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Artillery\\DataProcessor\\ExportDto\\Xml\\ExportGunDetailsDto.cs",
+              "RelativeToolTip": "Artillery\\DataProcessor\\ExportDto\\Xml\\ExportGunDetailsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T14:06:44.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExportGunRootDto.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Artillery\\DataProcessor\\ExportDto\\Xml\\ExportGunRootDto.cs",
+              "RelativeDocumentMoniker": "Artillery\\DataProcessor\\ExportDto\\Xml\\ExportGunRootDto.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Artillery\\DataProcessor\\ExportDto\\Xml\\ExportGunRootDto.cs",
+              "RelativeToolTip": "Artillery\\DataProcessor\\ExportDto\\Xml\\ExportGunRootDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T14:05:26.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Serializer.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Artillery\\DataProcessor\\Serializer.cs",
+              "RelativeDocumentMoniker": "Artillery\\DataProcessor\\Serializer.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Artillery\\DataProcessor\\Serializer.cs",
+              "RelativeToolTip": "Artillery\\DataProcessor\\Serializer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwDAAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T13:53:19.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Deserializer.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\AppData\\Local\\Temp\\Rar$DIa26784.47025\\Deserializer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa26784.47025\\Deserializer.cs",
+              "ToolTip": "C:\\Users\\Alex\\AppData\\Local\\Temp\\Rar$DIa26784.47025\\Deserializer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa26784.47025\\Deserializer.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAIAwwJsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T13:42:13.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ArtilleryProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Artillery\\ArtilleryProfile.cs",
+              "RelativeDocumentMoniker": "Artillery\\ArtilleryProfile.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Artillery\\ArtilleryProfile.cs",
+              "RelativeToolTip": "Artillery\\ArtilleryProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T13:29:14.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "guns.json",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Artillery\\Datasets\\guns.json",
+              "RelativeDocumentMoniker": "Artillery\\Datasets\\guns.json",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Artillery\\Datasets\\guns.json",
+              "RelativeToolTip": "Artillery\\Datasets\\guns.json",
+              "ViewState": "AgIAAEMFAAAAAAAAAAAAAFAFAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-28T13:25:28.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ImportCountryIdDto.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Artillery\\DataProcessor\\ImportDto\\Json\\ImportCountryIdDto.cs",
+              "RelativeDocumentMoniker": "Artillery\\DataProcessor\\ImportDto\\Json\\ImportCountryIdDto.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Artillery\\DataProcessor\\ImportDto\\Json\\ImportCountryIdDto.cs",
+              "RelativeToolTip": "Artillery\\DataProcessor\\ImportDto\\Json\\ImportCountryIdDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T13:11:43.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ImportGunDto.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Artillery\\DataProcessor\\ImportDto\\Json\\ImportGunDto.cs",
+              "RelativeDocumentMoniker": "Artillery\\DataProcessor\\ImportDto\\Json\\ImportGunDto.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Artillery\\DataProcessor\\ImportDto\\Json\\ImportGunDto.cs",
+              "RelativeToolTip": "Artillery\\DataProcessor\\ImportDto\\Json\\ImportGunDto.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T13:04:05.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ImportShellDto.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Artillery\\DataProcessor\\ImportDto\\Xml\\ImportShellDto.cs",
+              "RelativeDocumentMoniker": "Artillery\\DataProcessor\\ImportDto\\Xml\\ImportShellDto.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Artillery\\DataProcessor\\ImportDto\\Xml\\ImportShellDto.cs",
+              "RelativeToolTip": "Artillery\\DataProcessor\\ImportDto\\Xml\\ImportShellDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T12:57:23.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ImportManufacturerDto.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Artillery\\DataProcessor\\ImportDto\\Xml\\ImportManufacturerDto.cs",
+              "RelativeDocumentMoniker": "Artillery\\DataProcessor\\ImportDto\\Xml\\ImportManufacturerDto.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Artillery\\DataProcessor\\ImportDto\\Xml\\ImportManufacturerDto.cs",
+              "RelativeToolTip": "Artillery\\DataProcessor\\ImportDto\\Xml\\ImportManufacturerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T12:45:59.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ImportCountryDto.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Artillery\\DataProcessor\\ImportDto\\Xml\\ImportCountryDto.cs",
+              "RelativeDocumentMoniker": "Artillery\\DataProcessor\\ImportDto\\Xml\\ImportCountryDto.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Artillery\\DataProcessor\\ImportDto\\Xml\\ImportCountryDto.cs",
+              "RelativeToolTip": "Artillery\\DataProcessor\\ImportDto\\Xml\\ImportCountryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T12:37:41.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "XmlSerializeWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Artillery\\Utilites\\XmlSerializeWrapper.cs",
+              "RelativeDocumentMoniker": "Artillery\\Utilites\\XmlSerializeWrapper.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Artillery\\Utilites\\XmlSerializeWrapper.cs",
+              "RelativeToolTip": "Artillery\\Utilites\\XmlSerializeWrapper.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T12:35:45.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Deserializer.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Artillery\\DataProcessor\\Deserializer.cs",
+              "RelativeDocumentMoniker": "Artillery\\DataProcessor\\Deserializer.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Artillery\\DataProcessor\\Deserializer.cs",
+              "RelativeToolTip": "Artillery\\DataProcessor\\Deserializer.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAwwNQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T12:27:07.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Artillery\\StartUp.cs",
+              "RelativeDocumentMoniker": "Artillery\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Artillery\\StartUp.cs",
+              "RelativeToolTip": "Artillery\\StartUp.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowD0AAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T12:26:54.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Artillery\\Data\\Configuration.cs",
+              "RelativeDocumentMoniker": "Artillery\\Data\\Configuration.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Artillery\\Data\\Configuration.cs",
+              "RelativeToolTip": "Artillery\\Data\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T12:26:49.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ArtilleryContext.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Artillery\\Data\\ArtilleryContext.cs",
+              "RelativeDocumentMoniker": "Artillery\\Data\\ArtilleryContext.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Artillery\\Data\\ArtilleryContext.cs",
+              "RelativeToolTip": "Artillery\\Data\\ArtilleryContext.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwCwAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T12:03:11.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Artillery\\Data\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "Artillery\\Data\\Models\\Country.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Artillery\\Data\\Models\\Country.cs",
+              "RelativeToolTip": "Artillery\\Data\\Models\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T12:01:35.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CountryGun.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Artillery\\Data\\Models\\CountryGun.cs",
+              "RelativeDocumentMoniker": "Artillery\\Data\\Models\\CountryGun.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Artillery\\Data\\Models\\CountryGun.cs",
+              "RelativeToolTip": "Artillery\\Data\\Models\\CountryGun.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T12:00:39.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Gun.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Artillery\\Data\\Models\\Gun.cs",
+              "RelativeDocumentMoniker": "Artillery\\Data\\Models\\Gun.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Artillery\\Data\\Models\\Gun.cs",
+              "RelativeToolTip": "Artillery\\Data\\Models\\Gun.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T11:57:27.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Manufacturer.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Artillery\\Data\\Models\\Manufacturer.cs",
+              "RelativeDocumentMoniker": "Artillery\\Data\\Models\\Manufacturer.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Artillery\\Data\\Models\\Manufacturer.cs",
+              "RelativeToolTip": "Artillery\\Data\\Models\\Manufacturer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T11:55:04.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Shell.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Artillery\\Data\\Models\\Shell.cs",
+              "RelativeDocumentMoniker": "Artillery\\Data\\Models\\Shell.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Artillery\\Data\\Models\\Shell.cs",
+              "RelativeToolTip": "Artillery\\Data\\Models\\Shell.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T11:53:24.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GunType.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Artillery\\Data\\Models\\Enums\\GunType.cs",
+              "RelativeDocumentMoniker": "Artillery\\Data\\Models\\Enums\\GunType.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Artillery\\Data\\Models\\Enums\\GunType.cs",
+              "RelativeToolTip": "Artillery\\Data\\Models\\Enums\\GunType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T11:52:39.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EntityValidation.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Artillery\\Common\\EntityValidation.cs",
+              "RelativeDocumentMoniker": "Artillery\\Common\\EntityValidation.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\Artillery\\Common\\EntityValidation.cs",
+              "RelativeToolTip": "Artillery\\Common\\EntityValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T11:44:57.095Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
