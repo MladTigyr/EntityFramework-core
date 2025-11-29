@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\netpay\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|solutionrelative:netpay\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\netpay\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|solutionrelative:netpay\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\netpay\\dataprocessor\\exportdtos\\xml\\exportexpensedetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|solutionrelative:netpay\\dataprocessor\\exportdtos\\xml\\exportexpensedetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\netpay\\dataprocessor\\exportdtos\\xml\\exporthouseholddetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|solutionrelative:netpay\\dataprocessor\\exportdtos\\xml\\exporthouseholddetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\netpay\\dataprocessor\\exportdtos\\xml\\exporthouseholdrootdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|solutionrelative:netpay\\dataprocessor\\exportdtos\\xml\\exporthouseholdrootdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\netpay\\utilities\\xmlserializewrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|solutionrelative:netpay\\utilities\\xmlserializewrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\netpay\\dataprocessor\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|solutionrelative:netpay\\dataprocessor\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\netpay\\dataprocessor\\importdtos\\json\\importexpensedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|solutionrelative:netpay\\dataprocessor\\importdtos\\json\\importexpensedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\netpay\\common\\entityvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|solutionrelative:netpay\\common\\entityvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\netpay\\data\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|solutionrelative:netpay\\data\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\netpay\\datasets\\households.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|solutionrelative:netpay\\datasets\\households.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\netpay\\dataprocessor\\importdtos\\xml\\importhouseholddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|solutionrelative:netpay\\dataprocessor\\importdtos\\xml\\importhouseholddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\netpay\\data\\netpaycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|solutionrelative:netpay\\data\\netpaycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\netpay\\data\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|solutionrelative:netpay\\data\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\netpay\\data\\models\\supplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|solutionrelative:netpay\\data\\models\\supplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\netpay\\data\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|solutionrelative:netpay\\data\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\netpay\\data\\models\\household.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|solutionrelative:netpay\\data\\models\\household.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|c:\\users\\alex\\source\\repos\\entityframework\\exercises\\netpay\\data\\models\\enums\\paymentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|solutionrelative:netpay\\data\\models\\enums\\paymentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExportExpenseDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\NetPay\\DataProcessor\\ExportDtos\\Xml\\ExportExpenseDetailsDto.cs",
+              "RelativeDocumentMoniker": "NetPay\\DataProcessor\\ExportDtos\\Xml\\ExportExpenseDetailsDto.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\NetPay\\DataProcessor\\ExportDtos\\Xml\\ExportExpenseDetailsDto.cs",
+              "RelativeToolTip": "NetPay\\DataProcessor\\ExportDtos\\Xml\\ExportExpenseDetailsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T17:16:49.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExportHouseholdDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\NetPay\\DataProcessor\\ExportDtos\\Xml\\ExportHouseholdDetailsDto.cs",
+              "RelativeDocumentMoniker": "NetPay\\DataProcessor\\ExportDtos\\Xml\\ExportHouseholdDetailsDto.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\NetPay\\DataProcessor\\ExportDtos\\Xml\\ExportHouseholdDetailsDto.cs",
+              "RelativeToolTip": "NetPay\\DataProcessor\\ExportDtos\\Xml\\ExportHouseholdDetailsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T17:14:07.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExportHouseholdRootDto.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\NetPay\\DataProcessor\\ExportDtos\\Xml\\ExportHouseholdRootDto.cs",
+              "RelativeDocumentMoniker": "NetPay\\DataProcessor\\ExportDtos\\Xml\\ExportHouseholdRootDto.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\NetPay\\DataProcessor\\ExportDtos\\Xml\\ExportHouseholdRootDto.cs",
+              "RelativeToolTip": "NetPay\\DataProcessor\\ExportDtos\\Xml\\ExportHouseholdRootDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T17:13:01.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Serializer.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\NetPay\\DataProcessor\\Serializer.cs",
+              "RelativeDocumentMoniker": "NetPay\\DataProcessor\\Serializer.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\NetPay\\DataProcessor\\Serializer.cs",
+              "RelativeToolTip": "NetPay\\DataProcessor\\Serializer.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAFkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T17:09:01.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ImportExpenseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\NetPay\\DataProcessor\\ImportDtos\\Json\\ImportExpenseDto.cs",
+              "RelativeDocumentMoniker": "NetPay\\DataProcessor\\ImportDtos\\Json\\ImportExpenseDto.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\NetPay\\DataProcessor\\ImportDtos\\Json\\ImportExpenseDto.cs",
+              "RelativeToolTip": "NetPay\\DataProcessor\\ImportDtos\\Json\\ImportExpenseDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T16:51:36.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "households.xml",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\NetPay\\Datasets\\households.xml",
+              "RelativeDocumentMoniker": "NetPay\\Datasets\\households.xml",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\NetPay\\Datasets\\households.xml",
+              "RelativeToolTip": "NetPay\\Datasets\\households.xml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-11-29T16:47:19.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Deserializer.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\NetPay\\DataProcessor\\Deserializer.cs",
+              "RelativeDocumentMoniker": "NetPay\\DataProcessor\\Deserializer.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\NetPay\\DataProcessor\\Deserializer.cs",
+              "RelativeToolTip": "NetPay\\DataProcessor\\Deserializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T16:26:35.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ImportHouseholdDto.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\NetPay\\DataProcessor\\ImportDtos\\Xml\\ImportHouseholdDto.cs",
+              "RelativeDocumentMoniker": "NetPay\\DataProcessor\\ImportDtos\\Xml\\ImportHouseholdDto.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\NetPay\\DataProcessor\\ImportDtos\\Xml\\ImportHouseholdDto.cs",
+              "RelativeToolTip": "NetPay\\DataProcessor\\ImportDtos\\Xml\\ImportHouseholdDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T16:23:32.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "XmlSerializeWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\NetPay\\Utilities\\XmlSerializeWrapper.cs",
+              "RelativeDocumentMoniker": "NetPay\\Utilities\\XmlSerializeWrapper.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\NetPay\\Utilities\\XmlSerializeWrapper.cs",
+              "RelativeToolTip": "NetPay\\Utilities\\XmlSerializeWrapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T16:19:16.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NetPayContext.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\NetPay\\Data\\NetPayContext.cs",
+              "RelativeDocumentMoniker": "NetPay\\Data\\NetPayContext.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\NetPay\\Data\\NetPayContext.cs",
+              "RelativeToolTip": "NetPay\\Data\\NetPayContext.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAzwLEAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T15:51:20.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\NetPay\\Data\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "NetPay\\Data\\Models\\Supplier.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\NetPay\\Data\\Models\\Supplier.cs",
+              "RelativeToolTip": "NetPay\\Data\\Models\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T15:50:10.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SupplierService.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\NetPay\\Data\\Models\\SupplierService.cs",
+              "RelativeDocumentMoniker": "NetPay\\Data\\Models\\SupplierService.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\NetPay\\Data\\Models\\SupplierService.cs",
+              "RelativeToolTip": "NetPay\\Data\\Models\\SupplierService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T15:49:09.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\NetPay\\Data\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "NetPay\\Data\\Models\\Service.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\NetPay\\Data\\Models\\Service.cs",
+              "RelativeToolTip": "NetPay\\Data\\Models\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T15:47:10.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\NetPay\\Data\\Models\\Expense.cs",
+              "RelativeDocumentMoniker": "NetPay\\Data\\Models\\Expense.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\NetPay\\Data\\Models\\Expense.cs",
+              "RelativeToolTip": "NetPay\\Data\\Models\\Expense.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T15:44:48.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Household.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\NetPay\\Data\\Models\\Household.cs",
+              "RelativeDocumentMoniker": "NetPay\\Data\\Models\\Household.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\NetPay\\Data\\Models\\Household.cs",
+              "RelativeToolTip": "NetPay\\Data\\Models\\Household.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T15:42:16.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PaymentStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\NetPay\\Data\\Models\\Enums\\PaymentStatus.cs",
+              "RelativeDocumentMoniker": "NetPay\\Data\\Models\\Enums\\PaymentStatus.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\NetPay\\Data\\Models\\Enums\\PaymentStatus.cs",
+              "RelativeToolTip": "NetPay\\Data\\Models\\Enums\\PaymentStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T15:41:44.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EntityValidation.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\NetPay\\Common\\EntityValidation.cs",
+              "RelativeDocumentMoniker": "NetPay\\Common\\EntityValidation.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\NetPay\\Common\\EntityValidation.cs",
+              "RelativeToolTip": "NetPay\\Common\\EntityValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T15:35:18.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\NetPay\\StartUp.cs",
+              "RelativeDocumentMoniker": "NetPay\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\EntityFramework\\Exercises\\NetPay\\StartUp.cs*",
+              "RelativeToolTip": "NetPay\\StartUp.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwDEAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T15:32:25.966Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
